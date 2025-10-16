@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF41E" format="2">
+  <advance width="289"/>
+  <unicode hex="F41E"/>
+  <outline>
+    <contour>
+      <point x="0" y="249" type="line"/>
+      <point x="289" y="174" type="line"/>
+      <point x="289" y="299" type="line"/>
+      <point x="0" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="62" type="line"/>
+      <point x="289" y="-13" type="line"/>
+      <point x="289" y="112" type="line"/>
+      <point x="0" y="187" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="623" type="line"/>
+      <point x="289" y="548" type="line"/>
+      <point x="289" y="673" type="line"/>
+      <point x="0" y="748" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="436" type="line"/>
+      <point x="289" y="361" type="line"/>
+      <point x="289" y="486" type="line"/>
+      <point x="0" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-126" type="line"/>
+      <point x="289" y="-201" type="line"/>
+      <point x="289" y="-76" type="line"/>
+      <point x="0" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-313" type="line"/>
+      <point x="289" y="-388" type="line"/>
+      <point x="289" y="-263" type="line"/>
+      <point x="0" y="-188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>27c0a90ddd5622e62a4ee98892e76c0410c78c5f2754055c125676419d5bd890f4c1620552fa6833e3409954d45676cbc2c24cb3697073535bc7760b3b8285af</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 8 -21</string>
+          <string>hstem 486 -20</string>
+          <string>vstem 0 289</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

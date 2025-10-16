@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="metNoteQuarterUp" format="2">
+  <advance width="425"/>
+  <unicode hex="ECA5"/>
+  <outline>
+    <contour>
+      <point x="424" y="862" type="line"/>
+      <point x="370" y="863" type="line"/>
+      <point x="370" y="151" type="line"/>
+      <point x="351" y="162"/>
+      <point x="328" y="169"/>
+      <point x="301" y="172" type="curve"/>
+      <point x="294" y="172"/>
+      <point x="287" y="173"/>
+      <point x="279" y="173" type="curve" smooth="yes"/>
+      <point x="162" y="173"/>
+      <point x="5" y="76"/>
+      <point x="-1" y="-53" type="curve"/>
+      <point x="-1" y="-134"/>
+      <point x="71" y="-172"/>
+      <point x="145" y="-172" type="curve" smooth="yes"/>
+      <point x="189" y="-172"/>
+      <point x="238" y="-160"/>
+      <point x="285" y="-135" type="curve" smooth="yes"/>
+      <point x="371" y="-89"/>
+      <point x="424" y="-12"/>
+      <point x="424" y="54" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>89378d15469098466c18764f7b0c2dd245f3de00270073393936d6f304773ec50ac87ce386299a9e597aa5cbdd20a2994f2c9d7d189d9a614834d45b8f01f932</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -172 1035</string>
+          <string>vstem 370 54</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

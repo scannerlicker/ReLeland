@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stringsHalfHarmonic" format="2">
+  <advance width="181"/>
+  <unicode hex="E615"/>
+  <outline>
+    <contour>
+      <point x="91" y="153" type="line"/>
+      <point x="126" y="153"/>
+      <point x="153" y="126"/>
+      <point x="153" y="91" type="curve" smooth="yes"/>
+      <point x="153" y="56"/>
+      <point x="126" y="28"/>
+      <point x="91" y="28" type="curve"/>
+    </contour>
+    <contour>
+      <point x="91" y="181" type="curve" smooth="yes"/>
+      <point x="41" y="181"/>
+      <point x="0" y="141"/>
+      <point x="0" y="91" type="curve" smooth="yes"/>
+      <point x="0" y="41"/>
+      <point x="41" y="0"/>
+      <point x="91" y="0" type="curve" smooth="yes"/>
+      <point x="141" y="0"/>
+      <point x="181" y="41"/>
+      <point x="181" y="91" type="curve" smooth="yes"/>
+      <point x="181" y="141"/>
+      <point x="141" y="181"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>540340cf0f1e1aff5db9b8d2b59455eed5b10870d86693ae15cd1218d0d6419799a3253de9a8d50a7fed2cc73a2f30d05eab72369726b6b89f282199aa05ace4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 28</string>
+          <string>hstem 153 28</string>
+          <string>vstem 0 91</string>
+          <string>vstem 153 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tremolo3" format="2">
+  <advance width="145"/>
+  <unicode hex="E222"/>
+  <outline>
+    <contour>
+      <point x="-145" y="220" type="line"/>
+      <point x="-145" y="94" type="line"/>
+      <point x="145" y="157" type="line"/>
+      <point x="145" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="-157" type="line"/>
+      <point x="-145" y="-283" type="line"/>
+      <point x="145" y="-220" type="line"/>
+      <point x="145" y="-94" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="31" type="line"/>
+      <point x="-145" y="-94" type="line"/>
+      <point x="145" y="-32" type="line"/>
+      <point x="145" y="94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w145m-145,220l-145,94l145,157l145,283m-145,-157l-145,-283l145,-220l145,-94m-145,31l-145,-94l145,-32l145,94</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -283 566</string>
+          <string>vstem -145 290</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

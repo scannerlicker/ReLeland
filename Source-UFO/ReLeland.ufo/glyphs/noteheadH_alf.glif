@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteheadHalf" format="2">
+  <advance width="325"/>
+  <unicode hex="E0A3"/>
+  <outline>
+    <contour>
+      <point x="75" y="-86" type="curve" smooth="yes"/>
+      <point x="42" y="-86"/>
+      <point x="35" y="-59"/>
+      <point x="35" y="-50" type="curve" smooth="yes"/>
+      <point x="35" y="-1"/>
+      <point x="203" y="85"/>
+      <point x="250" y="85" type="curve" smooth="yes"/>
+      <point x="274" y="85"/>
+      <point x="290" y="71"/>
+      <point x="290" y="49" type="curve" smooth="yes"/>
+      <point x="290" y="-1"/>
+      <point x="121" y="-86"/>
+    </contour>
+    <contour>
+      <point x="213" y="132" type="curve" smooth="yes"/>
+      <point x="116" y="132"/>
+      <point x="0" y="51"/>
+      <point x="0" y="-42" type="curve" smooth="yes"/>
+      <point x="0" y="-85"/>
+      <point x="31" y="-133"/>
+      <point x="112" y="-133" type="curve" smooth="yes"/>
+      <point x="216" y="-133"/>
+      <point x="325" y="-48"/>
+      <point x="325" y="40" type="curve" smooth="yes"/>
+      <point x="325" y="99"/>
+      <point x="275" y="132"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e57c317dc4a0ebeb5be83c200a2b26338e20ff3c566807fc653047b2b3b79ec6c612b0bd2fefe89e3f999eb78a41dd7ebbc031b15f3d28097fc8744525ed062d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -133 47</string>
+          <string>hstem 85 47</string>
+          <string>vstem 0 35</string>
+          <string>vstem 290 35</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="restDoubleWholeLegerLine" format="2">
+  <advance width="229"/>
+  <unicode hex="E4F3"/>
+  <outline>
+    <contour>
+      <point x="229" y="264" type="line"/>
+      <point x="0" y="264" type="line"/>
+      <point x="0" y="236" type="line"/>
+      <point x="63" y="236" type="line"/>
+      <point x="63" y="14" type="line"/>
+      <point x="0" y="14" type="line"/>
+      <point x="0" y="-14" type="line"/>
+      <point x="229" y="-14" type="line"/>
+      <point x="229" y="14" type="line"/>
+      <point x="167" y="14" type="line"/>
+      <point x="167" y="236" type="line"/>
+      <point x="229" y="236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w229m229,264l0,264l0,236l63,236l63,14l0,14l0,-14l229,-14l229,14l167,14l167,236l229,236</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 28</string>
+          <string>hstem 236 28</string>
+          <string>vstem 63 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteheadSquareWhite" format="2">
+  <advance width="310"/>
+  <unicode hex="E0B8"/>
+  <outline>
+    <contour>
+      <point x="274" y="89" type="line"/>
+      <point x="274" y="-89" type="line"/>
+      <point x="36" y="-89" type="line"/>
+      <point x="36" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="125" type="line"/>
+      <point x="0" y="125" type="line"/>
+      <point x="0" y="-125" type="line"/>
+      <point x="310" y="-125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w310m274,89l274,-89l36,-89l36,89m310,125l0,125l0,-125l310,-125</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -125 36</string>
+          <string>hstem 89 36</string>
+          <string>vstem 0 36</string>
+          <string>vstem 274 36</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

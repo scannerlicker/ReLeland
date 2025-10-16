@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="articTenutoBelow" format="2">
+  <advance width="316"/>
+  <unicode hex="E4A5"/>
+  <outline>
+    <contour>
+      <point x="14" y="0" type="line" smooth="yes"/>
+      <point x="6" y="0"/>
+      <point x="0" y="-6"/>
+      <point x="0" y="-14" type="curve" smooth="yes"/>
+      <point x="0" y="-32" type="line" smooth="yes"/>
+      <point x="0" y="-40"/>
+      <point x="6" y="-46"/>
+      <point x="14" y="-46" type="curve" smooth="yes"/>
+      <point x="302" y="-46" type="line" smooth="yes"/>
+      <point x="310" y="-46"/>
+      <point x="316" y="-40"/>
+      <point x="316" y="-32" type="curve" smooth="yes"/>
+      <point x="316" y="-14" type="line" smooth="yes"/>
+      <point x="316" y="-6"/>
+      <point x="310" y="0"/>
+      <point x="302" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w316m14,0c6,0 0,-6 0,-14l0,-32c0,-40 6,-46 14,-46l302,-46c310,-46 316,-40 316,-32l316,-14c316,-6 310,0 302,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -46 46</string>
+          <string>vstem 0 316</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

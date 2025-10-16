@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dynamicNienteForHairpin" format="2">
+  <advance width="142"/>
+  <unicode hex="E541"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-39"/>
+      <point x="32" y="-71"/>
+      <point x="71" y="-71" type="curve" smooth="yes"/>
+      <point x="110" y="-71"/>
+      <point x="142" y="-39"/>
+      <point x="142" y="0" type="curve" smooth="yes"/>
+      <point x="142" y="39"/>
+      <point x="110" y="71"/>
+      <point x="71" y="71" type="curve" smooth="yes"/>
+      <point x="32" y="71"/>
+      <point x="0" y="39"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="curve" smooth="yes"/>
+      <point x="30" y="23"/>
+      <point x="48" y="41"/>
+      <point x="71" y="41" type="curve" smooth="yes"/>
+      <point x="94" y="41"/>
+      <point x="112" y="23"/>
+      <point x="112" y="0" type="curve" smooth="yes"/>
+      <point x="112" y="-23"/>
+      <point x="94" y="-41"/>
+      <point x="71" y="-41" type="curve" smooth="yes"/>
+      <point x="48" y="-41"/>
+      <point x="30" y="-23"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ddcfabcacfed8f082418304ddcbcedfe5042629b56db0c42d141bd06a13051aee18a1065e98f2d333d6747203380e4accb8be3634ccf13bb81a3bf90b8dbe2d3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -71 30</string>
+          <string>hstem 41 30</string>
+          <string>vstem 0 30</string>
+          <string>vstem 112 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fermataVeryLongBelow" format="2">
+  <advance width="842"/>
+  <unicode hex="E4C9"/>
+  <outline>
+    <contour>
+      <point x="0" y="-536" type="line" smooth="yes"/>
+      <point x="0" y="-544"/>
+      <point x="6" y="-549"/>
+      <point x="14" y="-549" type="curve" smooth="yes"/>
+      <point x="828" y="-549" type="line" smooth="yes"/>
+      <point x="836" y="-549"/>
+      <point x="842" y="-544"/>
+      <point x="842" y="-536" type="curve" smooth="yes"/>
+      <point x="842" y="0" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="814" y="-459" type="line"/>
+      <point x="28" y="-459" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="-354" type="line" smooth="yes"/>
+      <point x="164" y="-362"/>
+      <point x="170" y="-368"/>
+      <point x="178" y="-368" type="curve" smooth="yes"/>
+      <point x="664" y="-368" type="line" smooth="yes"/>
+      <point x="672" y="-368"/>
+      <point x="678" y="-362"/>
+      <point x="678" y="-354" type="curve" smooth="yes"/>
+      <point x="678" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="-277" type="line"/>
+      <point x="192" y="-277" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="-103" type="curve" smooth="yes"/>
+      <point x="352" y="-141"/>
+      <point x="383" y="-172"/>
+      <point x="421" y="-172" type="curve" smooth="yes"/>
+      <point x="459" y="-172"/>
+      <point x="490" y="-141"/>
+      <point x="490" y="-103" type="curve" smooth="yes"/>
+      <point x="490" y="-65"/>
+      <point x="459" y="-34"/>
+      <point x="421" y="-34" type="curve" smooth="yes"/>
+      <point x="383" y="-34"/>
+      <point x="352" y="-65"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0c124a427ce836e859b7c9a2d9886da46b7416ef0ce074d8781436a153c8f191e4ffa989416c1d169eae1e80e8674be4c97dc996467d9b5faf8de7d5281ae0b3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -549 90</string>
+          <string>hstem -368 91</string>
+          <string>hstem -172 138</string>
+          <string>vstem 0 28</string>
+          <string>vstem 164 28</string>
+          <string>vstem 352 138</string>
+          <string>vstem 650 28</string>
+          <string>vstem 814 28</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

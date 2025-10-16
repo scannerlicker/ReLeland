@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tremolo2" format="2">
+  <advance width="145"/>
+  <unicode hex="E221"/>
+  <outline>
+    <contour>
+      <point x="-145" y="126" type="line"/>
+      <point x="-145" y="1" type="line"/>
+      <point x="145" y="63" type="line"/>
+      <point x="145" y="189" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="-62" type="line"/>
+      <point x="-145" y="-188" type="line"/>
+      <point x="145" y="-125" type="line"/>
+      <point x="145" y="1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w145m-145,126l-145,1l145,63l145,189m-145,-62l-145,-188l145,-125l145,1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 22 -21</string>
+          <string>vstem -145 290</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

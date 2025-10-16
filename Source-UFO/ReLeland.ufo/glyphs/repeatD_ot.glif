@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="repeatDot" format="2">
+  <advance width="104"/>
+  <unicode hex="E044"/>
+  <outline>
+    <contour>
+      <point x="104" y="0" type="curve" smooth="yes"/>
+      <point x="104" y="29"/>
+      <point x="81" y="53"/>
+      <point x="52" y="53" type="curve" smooth="yes"/>
+      <point x="23" y="53"/>
+      <point x="0" y="29"/>
+      <point x="0" y="0" type="curve" smooth="yes"/>
+      <point x="0" y="-29"/>
+      <point x="23" y="-53"/>
+      <point x="52" y="-53" type="curve" smooth="yes"/>
+      <point x="81" y="-53"/>
+      <point x="104" y="-29"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w104m104,0c104,29 81,53 52,53c23,53 0,29 0,0c0,-29 23,-53 52,-53c81,-53 104,-29 104,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -53 106</string>
+          <string>vstem 0 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="articStaccatoAbove" format="2">
+  <advance width="78"/>
+  <unicode hex="E4A2"/>
+  <outline>
+    <contour>
+      <point x="11" y="11" type="curve" smooth="yes"/>
+      <point x="19" y="4"/>
+      <point x="29" y="0"/>
+      <point x="39" y="0" type="curve" smooth="yes"/>
+      <point x="49" y="0"/>
+      <point x="59" y="4"/>
+      <point x="67" y="11" type="curve" smooth="yes"/>
+      <point x="82" y="27"/>
+      <point x="82" y="51"/>
+      <point x="67" y="66" type="curve" smooth="yes"/>
+      <point x="59" y="74"/>
+      <point x="49" y="78"/>
+      <point x="39" y="78" type="curve" smooth="yes"/>
+      <point x="29" y="78"/>
+      <point x="19" y="74"/>
+      <point x="11" y="66" type="curve" smooth="yes"/>
+      <point x="-4" y="51"/>
+      <point x="-4" y="27"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w78m11,11c19,4 29,0 39,0c49,0 59,4 67,11c82,27 82,51 67,66c59,74 49,78 39,78c29,78 19,74 11,66c-4,51 -4,27 11,11</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>vstem 0 78</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="csymAugmented" format="2">
+  <advance width="321"/>
+  <unicode hex="E872"/>
+  <outline>
+    <contour>
+      <point x="321" y="278" type="line"/>
+      <point x="189" y="278" type="line"/>
+      <point x="189" y="410" type="line"/>
+      <point x="133" y="410" type="line"/>
+      <point x="133" y="278" type="line"/>
+      <point x="1" y="278" type="line"/>
+      <point x="1" y="222" type="line"/>
+      <point x="133" y="222" type="line"/>
+      <point x="133" y="90" type="line"/>
+      <point x="189" y="90" type="line"/>
+      <point x="189" y="222" type="line"/>
+      <point x="321" y="222" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w321m321,278l189,278l189,410l133,410l133,278l1,278l1,222l133,222l133,90l189,90l189,222l321,222</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 64</string>
+          <string>hstem 409 64</string>
+          <string>vstem 0 64</string>
+          <string>vstem 409 64</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

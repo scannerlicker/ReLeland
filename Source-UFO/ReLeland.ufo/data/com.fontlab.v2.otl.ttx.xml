@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTLayout>
+<GPOS>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=1 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=1 -->
+          <FeatureIndex index="0" value="0"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=1 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="kern"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=1 -->
+    <Lookup index="0">
+      <LookupType value="2"/>
+      <LookupFlag value="8"/>
+      <!-- SubTableCount=2 -->
+      <PairPos index="0" Format="1">
+        <Coverage Format="1">
+          <Glyph value="ottava"/>
+          <Glyph value="ottavaAlta"/>
+          <Glyph value="ottavaBassa"/>
+          <Glyph value="ottavaBassaBa"/>
+          <Glyph value="quindicesima"/>
+          <Glyph value="quindicesimaAlta"/>
+          <Glyph value="quindicesimaBassa"/>
+          <Glyph value="ventiduesima"/>
+          <Glyph value="ventiduesimaAlta"/>
+          <Glyph value="ventiduesimaBassa"/>
+          <Glyph value="octaveParensLeft"/>
+          <Glyph value="ottavaBassaVb"/>
+          <Glyph value="quindicesimaBassaMb"/>
+          <Glyph value="ventiduesimaBassaMb"/>
+          <Glyph value="octaveBassa"/>
+          <Glyph value="dynamicForte"/>
+          <Glyph value="dynamicZ"/>
+          <Glyph value="dynamicMF"/>
+          <Glyph value="dynamicPF"/>
+          <Glyph value="dynamicFF"/>
+          <Glyph value="dynamicFFF"/>
+          <Glyph value="dynamicFFFF"/>
+          <Glyph value="dynamicFFFFF"/>
+          <Glyph value="dynamicFFFFFF"/>
+          <Glyph value="dynamicSforzando1"/>
+          <Glyph value="dynamicRinforzando1"/>
+          <Glyph value="keyboardPedalPed"/>
+          <Glyph value="keyboardPedalP"/>
+          <Glyph value="keyboardPedalE"/>
+          <Glyph value="keyboardPedalD"/>
+          <Glyph value="keyboardPedalDot"/>
+          <Glyph value="keyboardPedalParensLeft"/>
+          <Glyph value="uniF434"/>
+          <Glyph value="uniF631"/>
+        </Coverage>
+        <ValueFormat1 value="4"/>
+        <ValueFormat2 value="0"/>
+        <!-- PairSetCount=34 -->
+        <PairSet index="0">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="1">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="2">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="3">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="4">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="5">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="6">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="7">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="8">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="9">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="10">
+          <!-- PairValueCount=14 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="ottava"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="ottavaAlta"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="ottavaBassa"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="ottavaBassaBa"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="quindicesima"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="quindicesimaAlta"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="quindicesimaBassa"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="ventiduesima"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="ventiduesimaAlta"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="9">
+            <SecondGlyph value="ventiduesimaBassa"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="10">
+            <SecondGlyph value="ottavaBassaVb"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="11">
+            <SecondGlyph value="quindicesimaBassaMb"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="12">
+            <SecondGlyph value="ventiduesimaBassaMb"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+          <PairValueRecord index="13">
+            <SecondGlyph value="octaveBassa"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="11">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="12">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="13">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="14">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="octaveParensRight"/>
+            <Value1 XAdvance="40"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="15">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="16">
+          <!-- PairValueCount=6 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicPiano"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicPPPPPP"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicPPPPP"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicPPPP"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicPPP"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicPP"/>
+            <Value1 XAdvance="-5"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="17">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="18">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="19">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="20">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="21">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="22">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="23">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="24">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="25">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="26">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalParensRight"/>
+            <Value1 XAdvance="20"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="27">
+          <!-- PairValueCount=2 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalE"/>
+            <Value1 XAdvance="-34"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="keyboardPedalParensRight"/>
+            <Value1 XAdvance="30"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="28">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalD"/>
+            <Value1 XAdvance="-120"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="29">
+          <!-- PairValueCount=2 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalDot"/>
+            <Value1 XAdvance="20"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="keyboardPedalParensRight"/>
+            <Value1 XAdvance="25"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="30">
+          <!-- PairValueCount=1 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalParensRight"/>
+            <Value1 XAdvance="20"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="31">
+          <!-- PairValueCount=3 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalPed"/>
+            <Value1 XAdvance="10"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="keyboardPedalP"/>
+            <Value1 XAdvance="10"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="uniF434"/>
+            <Value1 XAdvance="10"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="32">
+          <!-- PairValueCount=2 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="keyboardPedalDot"/>
+            <Value1 XAdvance="20"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="keyboardPedalParensRight"/>
+            <Value1 XAdvance="25"/>
+          </PairValueRecord>
+        </PairSet>
+        <PairSet index="33">
+          <!-- PairValueCount=9 -->
+          <PairValueRecord index="0">
+            <SecondGlyph value="dynamicForte"/>
+            <Value1 XAdvance="-84"/>
+          </PairValueRecord>
+          <PairValueRecord index="1">
+            <SecondGlyph value="dynamicZ"/>
+            <Value1 XAdvance="-140"/>
+          </PairValueRecord>
+          <PairValueRecord index="2">
+            <SecondGlyph value="dynamicFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="3">
+            <SecondGlyph value="dynamicFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="4">
+            <SecondGlyph value="dynamicFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="5">
+            <SecondGlyph value="dynamicFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="6">
+            <SecondGlyph value="dynamicFFFFFF"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="7">
+            <SecondGlyph value="dynamicFortePiano"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+          <PairValueRecord index="8">
+            <SecondGlyph value="dynamicForzando"/>
+            <Value1 XAdvance="-61"/>
+          </PairValueRecord>
+        </PairSet>
+      </PairPos>
+      <PairPos index="1" Format="2">
+        <Coverage Format="1">
+          <Glyph value="dynamicPiano"/>
+          <Glyph value="dynamicForte"/>
+          <Glyph value="dynamicPPPPPP"/>
+          <Glyph value="dynamicPPPPP"/>
+          <Glyph value="dynamicPPPP"/>
+          <Glyph value="dynamicPPP"/>
+          <Glyph value="dynamicPP"/>
+          <Glyph value="dynamicMF"/>
+          <Glyph value="dynamicPF"/>
+          <Glyph value="dynamicFF"/>
+          <Glyph value="dynamicFFF"/>
+          <Glyph value="dynamicFFFF"/>
+          <Glyph value="dynamicFFFFF"/>
+          <Glyph value="dynamicFFFFFF"/>
+          <Glyph value="dynamicSforzando1"/>
+          <Glyph value="dynamicRinforzando1"/>
+          <Glyph value="uniF631"/>
+        </Coverage>
+        <ValueFormat1 value="4"/>
+        <ValueFormat2 value="0"/>
+        <ClassDef1 Format="2">
+          <ClassDef glyph=".notdef" class="0"/>
+          <ClassDef glyph="space" class="0"/>
+          <ClassDef glyph="uni000D" class="0"/>
+          <ClassDef glyph="uni0000" class="0"/>
+          <ClassDef glyph="brace" class="0"/>
+          <ClassDef glyph="reversedBrace" class="0"/>
+          <ClassDef glyph="bracket" class="0"/>
+          <ClassDef glyph="bracketTop" class="0"/>
+          <ClassDef glyph="bracketBottom" class="0"/>
+          <ClassDef glyph="reversedBracketTop" class="0"/>
+          <ClassDef glyph="reversedBracketBottom" class="0"/>
+          <ClassDef glyph="systemDivider" class="0"/>
+          <ClassDef glyph="systemDividerLong" class="0"/>
+          <ClassDef glyph="systemDividerExtraLong" class="0"/>
+          <ClassDef glyph="repeatDots" class="0"/>
+          <ClassDef glyph="repeatDot" class="0"/>
+          <ClassDef glyph="segno" class="0"/>
+          <ClassDef glyph="coda" class="0"/>
+          <ClassDef glyph="codaSquare" class="0"/>
+          <ClassDef glyph="segnoSerpent1" class="0"/>
+          <ClassDef glyph="segnoSerpent2" class="0"/>
+          <ClassDef glyph="gClef" class="0"/>
+          <ClassDef glyph="gClef15mb" class="0"/>
+          <ClassDef glyph="gClef8vb" class="0"/>
+          <ClassDef glyph="gClef8va" class="0"/>
+          <ClassDef glyph="gClef15ma" class="0"/>
+          <ClassDef glyph="gClef8vbOld" class="0"/>
+          <ClassDef glyph="gClef8vbParens" class="0"/>
+          <ClassDef glyph="cClef" class="0"/>
+          <ClassDef glyph="cClef8vb" class="0"/>
+          <ClassDef glyph="fClef" class="0"/>
+          <ClassDef glyph="fClef15mb" class="0"/>
+          <ClassDef glyph="fClef8vb" class="0"/>
+          <ClassDef glyph="fClef8va" class="0"/>
+          <ClassDef glyph="fClef15ma" class="0"/>
+          <ClassDef glyph="unpitchedPercussionClef1" class="0"/>
+          <ClassDef glyph="unpitchedPercussionClef2" class="0"/>
+          <ClassDef glyph="gClefChange" class="0"/>
+          <ClassDef glyph="cClefChange" class="0"/>
+          <ClassDef glyph="fClefChange" class="0"/>
+          <ClassDef glyph="clef8" class="0"/>
+          <ClassDef glyph="clef15" class="0"/>
+          <ClassDef glyph="timeSig0" class="0"/>
+          <ClassDef glyph="timeSig1" class="0"/>
+          <ClassDef glyph="timeSig2" class="0"/>
+          <ClassDef glyph="timeSig3" class="0"/>
+          <ClassDef glyph="timeSig4" class="0"/>
+          <ClassDef glyph="timeSig5" class="0"/>
+          <ClassDef glyph="timeSig6" class="0"/>
+          <ClassDef glyph="timeSig7" class="0"/>
+          <ClassDef glyph="timeSig8" class="0"/>
+          <ClassDef glyph="timeSig9" class="0"/>
+          <ClassDef glyph="timeSigCommon" class="0"/>
+          <ClassDef glyph="timeSigCutCommon" class="0"/>
+          <ClassDef glyph="timeSigPlus" class="0"/>
+          <ClassDef glyph="noteheadDoubleWhole" class="0"/>
+          <ClassDef glyph="noteheadDoubleWholeSquare" class="0"/>
+          <ClassDef glyph="noteheadWhole" class="0"/>
+          <ClassDef glyph="noteheadHalf" class="0"/>
+          <ClassDef glyph="noteheadBlack" class="0"/>
+          <ClassDef glyph="noteheadNull" class="0"/>
+          <ClassDef glyph="noteheadXBlack" class="0"/>
+          <ClassDef glyph="noteheadPlusBlack" class="0"/>
+          <ClassDef glyph="noteheadCircleX" class="0"/>
+          <ClassDef glyph="noteheadSquareWhite" class="0"/>
+          <ClassDef glyph="noteheadSquareBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleUpWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleUpBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleLeftWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleLeftBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleRightWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleRightBlack" class="0"/>
+          <ClassDef glyph="noteheadMoonWhite" class="0"/>
+          <ClassDef glyph="noteheadMoonBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleRoundDownWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleRoundDownBlack" class="0"/>
+          <ClassDef glyph="noteheadSlashedBlack1" class="0"/>
+          <ClassDef glyph="noteheadSlashedBlack2" class="0"/>
+          <ClassDef glyph="noteheadSlashedHalf1" class="0"/>
+          <ClassDef glyph="noteheadSlashedHalf2" class="0"/>
+          <ClassDef glyph="noteheadSlashedWhole1" class="0"/>
+          <ClassDef glyph="noteheadSlashedWhole2" class="0"/>
+          <ClassDef glyph="noteheadSlashedDoubleWhole1" class="0"/>
+          <ClassDef glyph="noteheadSlashedDoubleWhole2" class="0"/>
+          <ClassDef glyph="noteheadDiamondDoubleWhole" class="0"/>
+          <ClassDef glyph="noteheadDiamondWhole" class="0"/>
+          <ClassDef glyph="noteheadDiamondHalf" class="0"/>
+          <ClassDef glyph="noteheadDiamondBlack" class="0"/>
+          <ClassDef glyph="noteheadCircledXLarge" class="0"/>
+          <ClassDef glyph="noteheadParenthesisLeft" class="0"/>
+          <ClassDef glyph="noteheadParenthesisRight" class="0"/>
+          <ClassDef glyph="noteheadWholeFilled" class="0"/>
+          <ClassDef glyph="noteheadHalfFilled" class="0"/>
+          <ClassDef glyph="noteheadRoundBlackDoubleSlashed" class="0"/>
+          <ClassDef glyph="noteheadRoundWhiteDoubleSlashed" class="0"/>
+          <ClassDef glyph="noteheadClusterSquareWhite" class="0"/>
+          <ClassDef glyph="noteheadClusterSquareBlack" class="0"/>
+          <ClassDef glyph="noteDoubleWhole" class="0"/>
+          <ClassDef glyph="noteDoubleWholeSquare" class="0"/>
+          <ClassDef glyph="noteWhole" class="0"/>
+          <ClassDef glyph="noteHalfUp" class="0"/>
+          <ClassDef glyph="noteHalfDown" class="0"/>
+          <ClassDef glyph="noteQuarterUp" class="0"/>
+          <ClassDef glyph="noteQuarterDown" class="0"/>
+          <ClassDef glyph="note8thUp" class="0"/>
+          <ClassDef glyph="note8thDown" class="0"/>
+          <ClassDef glyph="note16thUp" class="0"/>
+          <ClassDef glyph="note16thDown" class="0"/>
+          <ClassDef glyph="note32ndUp" class="0"/>
+          <ClassDef glyph="note32ndDown" class="0"/>
+          <ClassDef glyph="note64thUp" class="0"/>
+          <ClassDef glyph="note64thDown" class="0"/>
+          <ClassDef glyph="note128thUp" class="0"/>
+          <ClassDef glyph="note128thDown" class="0"/>
+          <ClassDef glyph="note256thUp" class="0"/>
+          <ClassDef glyph="note256thDown" class="0"/>
+          <ClassDef glyph="note512thUp" class="0"/>
+          <ClassDef glyph="note512thDown" class="0"/>
+          <ClassDef glyph="note1024thUp" class="0"/>
+          <ClassDef glyph="note1024thDown" class="0"/>
+          <ClassDef glyph="augmentationDot" class="0"/>
+          <ClassDef glyph="tremolo1" class="0"/>
+          <ClassDef glyph="tremolo2" class="0"/>
+          <ClassDef glyph="tremolo3" class="0"/>
+          <ClassDef glyph="tremolo4" class="0"/>
+          <ClassDef glyph="tremolo5" class="0"/>
+          <ClassDef glyph="tremoloFingered1" class="0"/>
+          <ClassDef glyph="tremoloFingered2" class="0"/>
+          <ClassDef glyph="tremoloFingered3" class="0"/>
+          <ClassDef glyph="tremoloFingered4" class="0"/>
+          <ClassDef glyph="tremoloFingered5" class="0"/>
+          <ClassDef glyph="buzzRoll" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots2" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots3" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots4" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots6" class="0"/>
+          <ClassDef glyph="oneHandedRollStevens" class="0"/>
+          <ClassDef glyph="doubleLateralRollStevens" class="0"/>
+          <ClassDef glyph="flag8thUp" class="0"/>
+          <ClassDef glyph="flag8thDown" class="0"/>
+          <ClassDef glyph="flag16thUp" class="0"/>
+          <ClassDef glyph="flag16thDown" class="0"/>
+          <ClassDef glyph="flag32ndUp" class="0"/>
+          <ClassDef glyph="flag32ndDown" class="0"/>
+          <ClassDef glyph="flag64thUp" class="0"/>
+          <ClassDef glyph="flag64thDown" class="0"/>
+          <ClassDef glyph="flag128thUp" class="0"/>
+          <ClassDef glyph="flag128thDown" class="0"/>
+          <ClassDef glyph="flag256thUp" class="0"/>
+          <ClassDef glyph="flag256thDown" class="0"/>
+          <ClassDef glyph="flag512thUp" class="0"/>
+          <ClassDef glyph="flag512thDown" class="0"/>
+          <ClassDef glyph="flag1024thUp" class="0"/>
+          <ClassDef glyph="flag1024thDown" class="0"/>
+          <ClassDef glyph="flagInternalUp" class="0"/>
+          <ClassDef glyph="flagInternalDown" class="0"/>
+          <ClassDef glyph="accidentalFlat" class="0"/>
+          <ClassDef glyph="accidentalNatural" class="0"/>
+          <ClassDef glyph="accidentalSharp" class="0"/>
+          <ClassDef glyph="accidentalDoubleSharp" class="0"/>
+          <ClassDef glyph="accidentalDoubleFlat" class="0"/>
+          <ClassDef glyph="accidentalTripleSharp" class="0"/>
+          <ClassDef glyph="accidentalTripleFlat" class="0"/>
+          <ClassDef glyph="accidentalNaturalFlat" class="0"/>
+          <ClassDef glyph="accidentalNaturalSharp" class="0"/>
+          <ClassDef glyph="accidentalSharpSharp" class="0"/>
+          <ClassDef glyph="accidentalParensLeft" class="0"/>
+          <ClassDef glyph="accidentalParensRight" class="0"/>
+          <ClassDef glyph="accidentalBracketLeft" class="0"/>
+          <ClassDef glyph="accidentalBracketRight" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatArrowUp" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatArrowDown" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpNaturalArrowUp" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatNaturalArrowDown" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpArrowUp" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpArrowDown" class="0"/>
+          <ClassDef glyph="accidentalFiveQuarterTonesSharpArrowUp" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpArrowDown" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatArrowUp" class="0"/>
+          <ClassDef glyph="accidentalFiveQuarterTonesFlatArrowDown" class="0"/>
+          <ClassDef glyph="accidentalArrowUp" class="0"/>
+          <ClassDef glyph="accidentalArrowDown" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatStein" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatZimmermann" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpStein" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpStein" class="0"/>
+          <ClassDef glyph="accidentalNarrowReversedFlat" class="0"/>
+          <ClassDef glyph="accidentalNarrowReversedFlatAndFlat" class="0"/>
+          <ClassDef glyph="accidentalBuyukMucennebFlat" class="0"/>
+          <ClassDef glyph="accidentalBakiyeFlat" class="0"/>
+          <ClassDef glyph="accidentalKucukMucennebSharp" class="0"/>
+          <ClassDef glyph="accidentalBuyukMucennebSharp" class="0"/>
+          <ClassDef glyph="articAccentAbove" class="0"/>
+          <ClassDef glyph="articAccentBelow" class="0"/>
+          <ClassDef glyph="articStaccatoAbove" class="0"/>
+          <ClassDef glyph="articStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoAbove" class="0"/>
+          <ClassDef glyph="articTenutoBelow" class="0"/>
+          <ClassDef glyph="articStaccatissimoAbove" class="0"/>
+          <ClassDef glyph="articStaccatissimoBelow" class="0"/>
+          <ClassDef glyph="articStaccatissimoWedgeAbove" class="0"/>
+          <ClassDef glyph="articStaccatissimoWedgeBelow" class="0"/>
+          <ClassDef glyph="articMarcatoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoBelow" class="0"/>
+          <ClassDef glyph="articMarcatoStaccatoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoStaccatoBelow" class="0"/>
+          <ClassDef glyph="articAccentStaccatoAbove" class="0"/>
+          <ClassDef glyph="articAccentStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoStaccatoAbove" class="0"/>
+          <ClassDef glyph="articTenutoStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoAccentAbove" class="0"/>
+          <ClassDef glyph="articTenutoAccentBelow" class="0"/>
+          <ClassDef glyph="articStressAbove" class="0"/>
+          <ClassDef glyph="articStressBelow" class="0"/>
+          <ClassDef glyph="articUnstressAbove" class="0"/>
+          <ClassDef glyph="articUnstressBelow" class="0"/>
+          <ClassDef glyph="articLaissezVibrerAbove" class="0"/>
+          <ClassDef glyph="articLaissezVibrerBelow" class="0"/>
+          <ClassDef glyph="articMarcatoTenutoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoTenutoBelow" class="0"/>
+          <ClassDef glyph="fermataAbove" class="0"/>
+          <ClassDef glyph="fermataBelow" class="0"/>
+          <ClassDef glyph="fermataShortAbove" class="0"/>
+          <ClassDef glyph="fermataShortBelow" class="0"/>
+          <ClassDef glyph="fermataLongAbove" class="0"/>
+          <ClassDef glyph="fermataLongBelow" class="0"/>
+          <ClassDef glyph="fermataVeryLongAbove" class="0"/>
+          <ClassDef glyph="fermataVeryLongBelow" class="0"/>
+          <ClassDef glyph="breathMarkComma" class="0"/>
+          <ClassDef glyph="caesura" class="0"/>
+          <ClassDef glyph="caesuraShort" class="0"/>
+          <ClassDef glyph="caesuraCurved" class="0"/>
+          <ClassDef glyph="caesuraSingleStroke" class="0"/>
+          <ClassDef glyph="restMaxima" class="0"/>
+          <ClassDef glyph="restLonga" class="0"/>
+          <ClassDef glyph="restDoubleWhole" class="0"/>
+          <ClassDef glyph="restWhole" class="0"/>
+          <ClassDef glyph="restHalf" class="0"/>
+          <ClassDef glyph="restQuarter" class="0"/>
+          <ClassDef glyph="rest8th" class="0"/>
+          <ClassDef glyph="rest16th" class="0"/>
+          <ClassDef glyph="rest32nd" class="0"/>
+          <ClassDef glyph="rest64th" class="0"/>
+          <ClassDef glyph="rest128th" class="0"/>
+          <ClassDef glyph="rest256th" class="0"/>
+          <ClassDef glyph="rest512th" class="0"/>
+          <ClassDef glyph="rest1024th" class="0"/>
+          <ClassDef glyph="restQuarterOld" class="0"/>
+          <ClassDef glyph="restDoubleWholeLegerLine" class="0"/>
+          <ClassDef glyph="restWholeLegerLine" class="0"/>
+          <ClassDef glyph="restHalfLegerLine" class="0"/>
+          <ClassDef glyph="restQuarterZ" class="0"/>
+          <ClassDef glyph="repeat1Bar" class="0"/>
+          <ClassDef glyph="repeat2Bars" class="0"/>
+          <ClassDef glyph="repeat4Bars" class="0"/>
+          <ClassDef glyph="repeatBarUpperDot" class="0"/>
+          <ClassDef glyph="repeatBarSlash" class="0"/>
+          <ClassDef glyph="repeatBarLowerDot" class="0"/>
+          <ClassDef glyph="ottava" class="0"/>
+          <ClassDef glyph="ottavaAlta" class="0"/>
+          <ClassDef glyph="ottavaBassa" class="0"/>
+          <ClassDef glyph="ottavaBassaBa" class="0"/>
+          <ClassDef glyph="quindicesima" class="0"/>
+          <ClassDef glyph="quindicesimaAlta" class="0"/>
+          <ClassDef glyph="quindicesimaBassa" class="0"/>
+          <ClassDef glyph="ventiduesima" class="0"/>
+          <ClassDef glyph="ventiduesimaAlta" class="0"/>
+          <ClassDef glyph="ventiduesimaBassa" class="0"/>
+          <ClassDef glyph="octaveParensLeft" class="0"/>
+          <ClassDef glyph="octaveParensRight" class="0"/>
+          <ClassDef glyph="ottavaBassaVb" class="0"/>
+          <ClassDef glyph="quindicesimaBassaMb" class="0"/>
+          <ClassDef glyph="ventiduesimaBassaMb" class="0"/>
+          <ClassDef glyph="octaveBassa" class="0"/>
+          <ClassDef glyph="dynamicMezzo" class="0"/>
+          <ClassDef glyph="dynamicRinforzando" class="0"/>
+          <ClassDef glyph="dynamicSforzando" class="0"/>
+          <ClassDef glyph="dynamicZ" class="0"/>
+          <ClassDef glyph="dynamicNiente" class="0"/>
+          <ClassDef glyph="dynamicMP" class="0"/>
+          <ClassDef glyph="dynamicFortePiano" class="0"/>
+          <ClassDef glyph="dynamicForzando" class="0"/>
+          <ClassDef glyph="dynamicSforzandoPiano" class="0"/>
+          <ClassDef glyph="dynamicSforzandoPianissimo" class="0"/>
+          <ClassDef glyph="dynamicSforzato" class="0"/>
+          <ClassDef glyph="dynamicSforzatoPiano" class="0"/>
+          <ClassDef glyph="dynamicSforzatoFF" class="0"/>
+          <ClassDef glyph="dynamicRinforzando2" class="0"/>
+          <ClassDef glyph="dynamicCrescendoHairpin" class="0"/>
+          <ClassDef glyph="dynamicDiminuendoHairpin" class="0"/>
+          <ClassDef glyph="dynamicMessaDiVoce" class="0"/>
+          <ClassDef glyph="dynamicNienteForHairpin" class="0"/>
+          <ClassDef glyph="graceNoteAcciaccaturaStemUp" class="0"/>
+          <ClassDef glyph="graceNoteAcciaccaturaStemDown" class="0"/>
+          <ClassDef glyph="graceNoteAppoggiaturaStemUp" class="0"/>
+          <ClassDef glyph="graceNoteAppoggiaturaStemDown" class="0"/>
+          <ClassDef glyph="graceNoteSlashStemUp" class="0"/>
+          <ClassDef glyph="graceNoteSlashStemDown" class="0"/>
+          <ClassDef glyph="ornamentTrill" class="0"/>
+          <ClassDef glyph="ornamentTurn" class="0"/>
+          <ClassDef glyph="ornamentTurnInverted" class="0"/>
+          <ClassDef glyph="ornamentTurnSlash" class="0"/>
+          <ClassDef glyph="ornamentTurnUp" class="0"/>
+          <ClassDef glyph="ornamentTurnUpS" class="0"/>
+          <ClassDef glyph="ornamentShortTrill" class="0"/>
+          <ClassDef glyph="ornamentMordent" class="0"/>
+          <ClassDef glyph="ornamentTremblement" class="0"/>
+          <ClassDef glyph="ornamentHaydn" class="0"/>
+          <ClassDef glyph="ornamentPortDeVoixV" class="0"/>
+          <ClassDef glyph="ornamentRightFacingHalfCircle" class="0"/>
+          <ClassDef glyph="ornamentLeftFacingHalfCircle" class="0"/>
+          <ClassDef glyph="ornamentRightFacingHook" class="0"/>
+          <ClassDef glyph="ornamentLeftFacingHook" class="0"/>
+          <ClassDef glyph="ornamentHookBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentHookAfterNote" class="0"/>
+          <ClassDef glyph="ornamentDownCurve" class="0"/>
+          <ClassDef glyph="ornamentShortObliqueLineBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentShortObliqueLineAfterNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineAfterNote" class="0"/>
+          <ClassDef glyph="ornamentDoubleObliqueLinesBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentDoubleObliqueLinesAfterNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineHorizBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineHorizAfterNote" class="0"/>
+          <ClassDef glyph="ornamentShake3" class="0"/>
+          <ClassDef glyph="ornamentVerticalLine" class="0"/>
+          <ClassDef glyph="ornamentShakeMuffat1" class="0"/>
+          <ClassDef glyph="ornamentSchleifer" class="0"/>
+          <ClassDef glyph="ornamentPinceCouperin" class="0"/>
+          <ClassDef glyph="ornamentLowLeftConcaveStroke" class="0"/>
+          <ClassDef glyph="ornamentZigZagLineNoRightEnd" class="0"/>
+          <ClassDef glyph="ornamentZigZagLineWithRightEnd" class="0"/>
+          <ClassDef glyph="ornamentPrecompAppoggTrill" class="0"/>
+          <ClassDef glyph="ornamentPrecompSlideTrillDAnglebert" class="0"/>
+          <ClassDef glyph="ornamentPrecompSlideTrillBach" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillSuffixDandrieu" class="0"/>
+          <ClassDef glyph="ornamentPrecompPortDeVoixMordent" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillWithMordent" class="0"/>
+          <ClassDef glyph="ornamentPrecompCadence" class="0"/>
+          <ClassDef glyph="ornamentPrecompDoubleCadenceLowerPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompDoubleCadenceUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompMordentUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompInvertedMordentUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillLowerSuffix" class="0"/>
+          <ClassDef glyph="brassMuteClosed" class="0"/>
+          <ClassDef glyph="brassMuteHalfClosed" class="0"/>
+          <ClassDef glyph="brassMuteOpen" class="0"/>
+          <ClassDef glyph="brassHarmonMuteClosed" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemHalfLeft" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemHalfRight" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemOpen" class="0"/>
+          <ClassDef glyph="brassValveTrill" class="0"/>
+          <ClassDef glyph="stringsDownBow" class="0"/>
+          <ClassDef glyph="stringsDownBowTurned" class="0"/>
+          <ClassDef glyph="stringsUpBow" class="0"/>
+          <ClassDef glyph="stringsUpBowTurned" class="0"/>
+          <ClassDef glyph="stringsHarmonic" class="0"/>
+          <ClassDef glyph="stringsHalfHarmonic" class="0"/>
+          <ClassDef glyph="pluckedSnapPizzicatoBelow" class="0"/>
+          <ClassDef glyph="pluckedSnapPizzicatoAbove" class="0"/>
+          <ClassDef glyph="pluckedBuzzPizzicato" class="0"/>
+          <ClassDef glyph="keyboardPedalPed" class="0"/>
+          <ClassDef glyph="keyboardPedalP" class="0"/>
+          <ClassDef glyph="keyboardPedalE" class="0"/>
+          <ClassDef glyph="keyboardPedalD" class="0"/>
+          <ClassDef glyph="keyboardPedalDot" class="0"/>
+          <ClassDef glyph="keyboardPedalUp" class="0"/>
+          <ClassDef glyph="keyboardPedalParensLeft" class="0"/>
+          <ClassDef glyph="keyboardPedalParensRight" class="0"/>
+          <ClassDef glyph="harpPedalRaised" class="0"/>
+          <ClassDef glyph="harpPedalCentered" class="0"/>
+          <ClassDef glyph="harpPedalLowered" class="0"/>
+          <ClassDef glyph="harpPedalDivider" class="0"/>
+          <ClassDef glyph="csymDiminished" class="0"/>
+          <ClassDef glyph="csymHalfDiminished" class="0"/>
+          <ClassDef glyph="csymAugmented" class="0"/>
+          <ClassDef glyph="csymMajorSeventh" class="0"/>
+          <ClassDef glyph="tuplet0" class="0"/>
+          <ClassDef glyph="tuplet1" class="0"/>
+          <ClassDef glyph="tuplet2" class="0"/>
+          <ClassDef glyph="tuplet3" class="0"/>
+          <ClassDef glyph="tuplet4" class="0"/>
+          <ClassDef glyph="tuplet5" class="0"/>
+          <ClassDef glyph="tuplet6" class="0"/>
+          <ClassDef glyph="tuplet7" class="0"/>
+          <ClassDef glyph="tuplet8" class="0"/>
+          <ClassDef glyph="tuplet9" class="0"/>
+          <ClassDef glyph="tupletColon" class="0"/>
+          <ClassDef glyph="mensuralNoteheadMinimaWhite" class="0"/>
+          <ClassDef glyph="mensuralNoteheadSemiminimaWhite" class="0"/>
+          <ClassDef glyph="ornamentQuilisma" class="0"/>
+          <ClassDef glyph="ornamentOriscus" class="0"/>
+          <ClassDef glyph="wiggleTrill" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoUp" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoDown" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoUpArrow" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoDownArrow" class="0"/>
+          <ClassDef glyph="metNoteDoubleWhole" class="0"/>
+          <ClassDef glyph="metNoteWhole" class="0"/>
+          <ClassDef glyph="metNoteHalfUp" class="0"/>
+          <ClassDef glyph="metNoteQuarterUp" class="0"/>
+          <ClassDef glyph="metNote8thUp" class="0"/>
+          <ClassDef glyph="metNote16thUp" class="0"/>
+          <ClassDef glyph="metNote32ndUp" class="0"/>
+          <ClassDef glyph="metAugmentationDot" class="0"/>
+          <ClassDef glyph="fingering0" class="0"/>
+          <ClassDef glyph="fingering1" class="0"/>
+          <ClassDef glyph="fingering2" class="0"/>
+          <ClassDef glyph="fingering3" class="0"/>
+          <ClassDef glyph="fingering4" class="0"/>
+          <ClassDef glyph="fingering5" class="0"/>
+          <ClassDef glyph="fingering6" class="0"/>
+          <ClassDef glyph="fingering7" class="0"/>
+          <ClassDef glyph="fingering8" class="0"/>
+          <ClassDef glyph="fingering9" class="0"/>
+          <ClassDef glyph="fingering0Italic" class="0"/>
+          <ClassDef glyph="fingering1Italic" class="0"/>
+          <ClassDef glyph="fingering2Italic" class="0"/>
+          <ClassDef glyph="fingering3Italic" class="0"/>
+          <ClassDef glyph="fingering4Italic" class="0"/>
+          <ClassDef glyph="fingering5Italic" class="0"/>
+          <ClassDef glyph="fingering6Italic" class="0"/>
+          <ClassDef glyph="fingering7Italic" class="0"/>
+          <ClassDef glyph="fingering8Italic" class="0"/>
+          <ClassDef glyph="fingering9Italic" class="0"/>
+          <ClassDef glyph="uniF400" class="0"/>
+          <ClassDef glyph="uniF401" class="0"/>
+          <ClassDef glyph="uniF402" class="0"/>
+          <ClassDef glyph="uniF403" class="0"/>
+          <ClassDef glyph="uniF40E" class="0"/>
+          <ClassDef glyph="uniF40F" class="0"/>
+          <ClassDef glyph="uniF411" class="0"/>
+          <ClassDef glyph="uniF412" class="0"/>
+          <ClassDef glyph="uniF414" class="0"/>
+          <ClassDef glyph="uniF415" class="0"/>
+          <ClassDef glyph="uniF417" class="0"/>
+          <ClassDef glyph="uniF418" class="0"/>
+          <ClassDef glyph="uniF41A" class="0"/>
+          <ClassDef glyph="uniF41B" class="0"/>
+          <ClassDef glyph="uniF41D" class="0"/>
+          <ClassDef glyph="uniF41E" class="0"/>
+          <ClassDef glyph="uniF420" class="0"/>
+          <ClassDef glyph="uniF421" class="0"/>
+          <ClassDef glyph="uniF423" class="0"/>
+          <ClassDef glyph="uniF424" class="0"/>
+          <ClassDef glyph="uniF426" class="0"/>
+          <ClassDef glyph="uniF434" class="0"/>
+          <ClassDef glyph="uniF440" class="0"/>
+          <ClassDef glyph="uniF441" class="0"/>
+          <ClassDef glyph="uniF442" class="0"/>
+          <ClassDef glyph="uniF443" class="0"/>
+          <ClassDef glyph="uniF444" class="0"/>
+          <ClassDef glyph="uniF445" class="0"/>
+          <ClassDef glyph="uniF446" class="0"/>
+          <ClassDef glyph="uniF447" class="0"/>
+          <ClassDef glyph="uniF448" class="0"/>
+          <ClassDef glyph="uniF449" class="0"/>
+          <ClassDef glyph="uniF4BA" class="0"/>
+          <ClassDef glyph="uniF506" class="0"/>
+          <ClassDef glyph="uniF507" class="0"/>
+          <ClassDef glyph="uniF508" class="0"/>
+          <ClassDef glyph="uniF509" class="0"/>
+          <ClassDef glyph="uniF50A" class="0"/>
+          <ClassDef glyph="uniF50B" class="0"/>
+          <ClassDef glyph="uniF50C" class="0"/>
+          <ClassDef glyph="uniF50D" class="0"/>
+          <ClassDef glyph="uniF50E" class="0"/>
+          <ClassDef glyph="uniF50F" class="0"/>
+          <ClassDef glyph="uniF5DD" class="0"/>
+          <ClassDef glyph="uniF5DE" class="0"/>
+          <ClassDef glyph="uniF5DF" class="0"/>
+          <ClassDef glyph="uniF5E0" class="0"/>
+          <ClassDef glyph="uniF5E1" class="0"/>
+          <ClassDef glyph="uniF630" class="0"/>
+          <ClassDef glyph="_6stringTabClef" class="0"/>
+          <ClassDef glyph="_4stringTabClef" class="0"/>
+          <ClassDef glyph="dynamicForte" class="1"/>
+          <ClassDef glyph="dynamicMF" class="1"/>
+          <ClassDef glyph="dynamicPF" class="1"/>
+          <ClassDef glyph="dynamicFF" class="1"/>
+          <ClassDef glyph="dynamicFFF" class="1"/>
+          <ClassDef glyph="dynamicFFFF" class="1"/>
+          <ClassDef glyph="dynamicFFFFF" class="1"/>
+          <ClassDef glyph="dynamicFFFFFF" class="1"/>
+          <ClassDef glyph="dynamicSforzando1" class="1"/>
+          <ClassDef glyph="dynamicRinforzando1" class="1"/>
+          <ClassDef glyph="uniF631" class="1"/>
+          <ClassDef glyph="dynamicPiano" class="2"/>
+          <ClassDef glyph="dynamicPPPPPP" class="2"/>
+          <ClassDef glyph="dynamicPPPPP" class="2"/>
+          <ClassDef glyph="dynamicPPPP" class="2"/>
+          <ClassDef glyph="dynamicPPP" class="2"/>
+          <ClassDef glyph="dynamicPP" class="2"/>
+        </ClassDef1>
+        <ClassDef2 Format="2">
+          <ClassDef glyph=".notdef" class="0"/>
+          <ClassDef glyph="space" class="0"/>
+          <ClassDef glyph="uni000D" class="0"/>
+          <ClassDef glyph="uni0000" class="0"/>
+          <ClassDef glyph="brace" class="0"/>
+          <ClassDef glyph="reversedBrace" class="0"/>
+          <ClassDef glyph="bracket" class="0"/>
+          <ClassDef glyph="bracketTop" class="0"/>
+          <ClassDef glyph="bracketBottom" class="0"/>
+          <ClassDef glyph="reversedBracketTop" class="0"/>
+          <ClassDef glyph="reversedBracketBottom" class="0"/>
+          <ClassDef glyph="systemDivider" class="0"/>
+          <ClassDef glyph="systemDividerLong" class="0"/>
+          <ClassDef glyph="systemDividerExtraLong" class="0"/>
+          <ClassDef glyph="repeatDots" class="0"/>
+          <ClassDef glyph="repeatDot" class="0"/>
+          <ClassDef glyph="segno" class="0"/>
+          <ClassDef glyph="coda" class="0"/>
+          <ClassDef glyph="codaSquare" class="0"/>
+          <ClassDef glyph="segnoSerpent1" class="0"/>
+          <ClassDef glyph="segnoSerpent2" class="0"/>
+          <ClassDef glyph="gClef" class="0"/>
+          <ClassDef glyph="gClef15mb" class="0"/>
+          <ClassDef glyph="gClef8vb" class="0"/>
+          <ClassDef glyph="gClef8va" class="0"/>
+          <ClassDef glyph="gClef15ma" class="0"/>
+          <ClassDef glyph="gClef8vbOld" class="0"/>
+          <ClassDef glyph="gClef8vbParens" class="0"/>
+          <ClassDef glyph="cClef" class="0"/>
+          <ClassDef glyph="cClef8vb" class="0"/>
+          <ClassDef glyph="fClef" class="0"/>
+          <ClassDef glyph="fClef15mb" class="0"/>
+          <ClassDef glyph="fClef8vb" class="0"/>
+          <ClassDef glyph="fClef8va" class="0"/>
+          <ClassDef glyph="fClef15ma" class="0"/>
+          <ClassDef glyph="unpitchedPercussionClef1" class="0"/>
+          <ClassDef glyph="unpitchedPercussionClef2" class="0"/>
+          <ClassDef glyph="gClefChange" class="0"/>
+          <ClassDef glyph="cClefChange" class="0"/>
+          <ClassDef glyph="fClefChange" class="0"/>
+          <ClassDef glyph="clef8" class="0"/>
+          <ClassDef glyph="clef15" class="0"/>
+          <ClassDef glyph="timeSig0" class="0"/>
+          <ClassDef glyph="timeSig1" class="0"/>
+          <ClassDef glyph="timeSig2" class="0"/>
+          <ClassDef glyph="timeSig3" class="0"/>
+          <ClassDef glyph="timeSig4" class="0"/>
+          <ClassDef glyph="timeSig5" class="0"/>
+          <ClassDef glyph="timeSig6" class="0"/>
+          <ClassDef glyph="timeSig7" class="0"/>
+          <ClassDef glyph="timeSig8" class="0"/>
+          <ClassDef glyph="timeSig9" class="0"/>
+          <ClassDef glyph="timeSigCommon" class="0"/>
+          <ClassDef glyph="timeSigCutCommon" class="0"/>
+          <ClassDef glyph="timeSigPlus" class="0"/>
+          <ClassDef glyph="noteheadDoubleWhole" class="0"/>
+          <ClassDef glyph="noteheadDoubleWholeSquare" class="0"/>
+          <ClassDef glyph="noteheadWhole" class="0"/>
+          <ClassDef glyph="noteheadHalf" class="0"/>
+          <ClassDef glyph="noteheadBlack" class="0"/>
+          <ClassDef glyph="noteheadNull" class="0"/>
+          <ClassDef glyph="noteheadXBlack" class="0"/>
+          <ClassDef glyph="noteheadPlusBlack" class="0"/>
+          <ClassDef glyph="noteheadCircleX" class="0"/>
+          <ClassDef glyph="noteheadSquareWhite" class="0"/>
+          <ClassDef glyph="noteheadSquareBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleUpWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleUpBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleLeftWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleLeftBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleRightWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleRightBlack" class="0"/>
+          <ClassDef glyph="noteheadMoonWhite" class="0"/>
+          <ClassDef glyph="noteheadMoonBlack" class="0"/>
+          <ClassDef glyph="noteheadTriangleRoundDownWhite" class="0"/>
+          <ClassDef glyph="noteheadTriangleRoundDownBlack" class="0"/>
+          <ClassDef glyph="noteheadSlashedBlack1" class="0"/>
+          <ClassDef glyph="noteheadSlashedBlack2" class="0"/>
+          <ClassDef glyph="noteheadSlashedHalf1" class="0"/>
+          <ClassDef glyph="noteheadSlashedHalf2" class="0"/>
+          <ClassDef glyph="noteheadSlashedWhole1" class="0"/>
+          <ClassDef glyph="noteheadSlashedWhole2" class="0"/>
+          <ClassDef glyph="noteheadSlashedDoubleWhole1" class="0"/>
+          <ClassDef glyph="noteheadSlashedDoubleWhole2" class="0"/>
+          <ClassDef glyph="noteheadDiamondDoubleWhole" class="0"/>
+          <ClassDef glyph="noteheadDiamondWhole" class="0"/>
+          <ClassDef glyph="noteheadDiamondHalf" class="0"/>
+          <ClassDef glyph="noteheadDiamondBlack" class="0"/>
+          <ClassDef glyph="noteheadCircledXLarge" class="0"/>
+          <ClassDef glyph="noteheadParenthesisLeft" class="0"/>
+          <ClassDef glyph="noteheadParenthesisRight" class="0"/>
+          <ClassDef glyph="noteheadWholeFilled" class="0"/>
+          <ClassDef glyph="noteheadHalfFilled" class="0"/>
+          <ClassDef glyph="noteheadRoundBlackDoubleSlashed" class="0"/>
+          <ClassDef glyph="noteheadRoundWhiteDoubleSlashed" class="0"/>
+          <ClassDef glyph="noteheadClusterSquareWhite" class="0"/>
+          <ClassDef glyph="noteheadClusterSquareBlack" class="0"/>
+          <ClassDef glyph="noteDoubleWhole" class="0"/>
+          <ClassDef glyph="noteDoubleWholeSquare" class="0"/>
+          <ClassDef glyph="noteWhole" class="0"/>
+          <ClassDef glyph="noteHalfUp" class="0"/>
+          <ClassDef glyph="noteHalfDown" class="0"/>
+          <ClassDef glyph="noteQuarterUp" class="0"/>
+          <ClassDef glyph="noteQuarterDown" class="0"/>
+          <ClassDef glyph="note8thUp" class="0"/>
+          <ClassDef glyph="note8thDown" class="0"/>
+          <ClassDef glyph="note16thUp" class="0"/>
+          <ClassDef glyph="note16thDown" class="0"/>
+          <ClassDef glyph="note32ndUp" class="0"/>
+          <ClassDef glyph="note32ndDown" class="0"/>
+          <ClassDef glyph="note64thUp" class="0"/>
+          <ClassDef glyph="note64thDown" class="0"/>
+          <ClassDef glyph="note128thUp" class="0"/>
+          <ClassDef glyph="note128thDown" class="0"/>
+          <ClassDef glyph="note256thUp" class="0"/>
+          <ClassDef glyph="note256thDown" class="0"/>
+          <ClassDef glyph="note512thUp" class="0"/>
+          <ClassDef glyph="note512thDown" class="0"/>
+          <ClassDef glyph="note1024thUp" class="0"/>
+          <ClassDef glyph="note1024thDown" class="0"/>
+          <ClassDef glyph="augmentationDot" class="0"/>
+          <ClassDef glyph="tremolo1" class="0"/>
+          <ClassDef glyph="tremolo2" class="0"/>
+          <ClassDef glyph="tremolo3" class="0"/>
+          <ClassDef glyph="tremolo4" class="0"/>
+          <ClassDef glyph="tremolo5" class="0"/>
+          <ClassDef glyph="tremoloFingered1" class="0"/>
+          <ClassDef glyph="tremoloFingered2" class="0"/>
+          <ClassDef glyph="tremoloFingered3" class="0"/>
+          <ClassDef glyph="tremoloFingered4" class="0"/>
+          <ClassDef glyph="tremoloFingered5" class="0"/>
+          <ClassDef glyph="buzzRoll" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots2" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots3" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots4" class="0"/>
+          <ClassDef glyph="tremoloDivisiDots6" class="0"/>
+          <ClassDef glyph="oneHandedRollStevens" class="0"/>
+          <ClassDef glyph="doubleLateralRollStevens" class="0"/>
+          <ClassDef glyph="flag8thUp" class="0"/>
+          <ClassDef glyph="flag8thDown" class="0"/>
+          <ClassDef glyph="flag16thUp" class="0"/>
+          <ClassDef glyph="flag16thDown" class="0"/>
+          <ClassDef glyph="flag32ndUp" class="0"/>
+          <ClassDef glyph="flag32ndDown" class="0"/>
+          <ClassDef glyph="flag64thUp" class="0"/>
+          <ClassDef glyph="flag64thDown" class="0"/>
+          <ClassDef glyph="flag128thUp" class="0"/>
+          <ClassDef glyph="flag128thDown" class="0"/>
+          <ClassDef glyph="flag256thUp" class="0"/>
+          <ClassDef glyph="flag256thDown" class="0"/>
+          <ClassDef glyph="flag512thUp" class="0"/>
+          <ClassDef glyph="flag512thDown" class="0"/>
+          <ClassDef glyph="flag1024thUp" class="0"/>
+          <ClassDef glyph="flag1024thDown" class="0"/>
+          <ClassDef glyph="flagInternalUp" class="0"/>
+          <ClassDef glyph="flagInternalDown" class="0"/>
+          <ClassDef glyph="accidentalFlat" class="0"/>
+          <ClassDef glyph="accidentalNatural" class="0"/>
+          <ClassDef glyph="accidentalSharp" class="0"/>
+          <ClassDef glyph="accidentalDoubleSharp" class="0"/>
+          <ClassDef glyph="accidentalDoubleFlat" class="0"/>
+          <ClassDef glyph="accidentalTripleSharp" class="0"/>
+          <ClassDef glyph="accidentalTripleFlat" class="0"/>
+          <ClassDef glyph="accidentalNaturalFlat" class="0"/>
+          <ClassDef glyph="accidentalNaturalSharp" class="0"/>
+          <ClassDef glyph="accidentalSharpSharp" class="0"/>
+          <ClassDef glyph="accidentalParensLeft" class="0"/>
+          <ClassDef glyph="accidentalParensRight" class="0"/>
+          <ClassDef glyph="accidentalBracketLeft" class="0"/>
+          <ClassDef glyph="accidentalBracketRight" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatArrowUp" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatArrowDown" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpNaturalArrowUp" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatNaturalArrowDown" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpArrowUp" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpArrowDown" class="0"/>
+          <ClassDef glyph="accidentalFiveQuarterTonesSharpArrowUp" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpArrowDown" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatArrowUp" class="0"/>
+          <ClassDef glyph="accidentalFiveQuarterTonesFlatArrowDown" class="0"/>
+          <ClassDef glyph="accidentalArrowUp" class="0"/>
+          <ClassDef glyph="accidentalArrowDown" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneFlatStein" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesFlatZimmermann" class="0"/>
+          <ClassDef glyph="accidentalQuarterToneSharpStein" class="0"/>
+          <ClassDef glyph="accidentalThreeQuarterTonesSharpStein" class="0"/>
+          <ClassDef glyph="accidentalNarrowReversedFlat" class="0"/>
+          <ClassDef glyph="accidentalNarrowReversedFlatAndFlat" class="0"/>
+          <ClassDef glyph="accidentalBuyukMucennebFlat" class="0"/>
+          <ClassDef glyph="accidentalBakiyeFlat" class="0"/>
+          <ClassDef glyph="accidentalKucukMucennebSharp" class="0"/>
+          <ClassDef glyph="accidentalBuyukMucennebSharp" class="0"/>
+          <ClassDef glyph="articAccentAbove" class="0"/>
+          <ClassDef glyph="articAccentBelow" class="0"/>
+          <ClassDef glyph="articStaccatoAbove" class="0"/>
+          <ClassDef glyph="articStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoAbove" class="0"/>
+          <ClassDef glyph="articTenutoBelow" class="0"/>
+          <ClassDef glyph="articStaccatissimoAbove" class="0"/>
+          <ClassDef glyph="articStaccatissimoBelow" class="0"/>
+          <ClassDef glyph="articStaccatissimoWedgeAbove" class="0"/>
+          <ClassDef glyph="articStaccatissimoWedgeBelow" class="0"/>
+          <ClassDef glyph="articMarcatoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoBelow" class="0"/>
+          <ClassDef glyph="articMarcatoStaccatoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoStaccatoBelow" class="0"/>
+          <ClassDef glyph="articAccentStaccatoAbove" class="0"/>
+          <ClassDef glyph="articAccentStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoStaccatoAbove" class="0"/>
+          <ClassDef glyph="articTenutoStaccatoBelow" class="0"/>
+          <ClassDef glyph="articTenutoAccentAbove" class="0"/>
+          <ClassDef glyph="articTenutoAccentBelow" class="0"/>
+          <ClassDef glyph="articStressAbove" class="0"/>
+          <ClassDef glyph="articStressBelow" class="0"/>
+          <ClassDef glyph="articUnstressAbove" class="0"/>
+          <ClassDef glyph="articUnstressBelow" class="0"/>
+          <ClassDef glyph="articLaissezVibrerAbove" class="0"/>
+          <ClassDef glyph="articLaissezVibrerBelow" class="0"/>
+          <ClassDef glyph="articMarcatoTenutoAbove" class="0"/>
+          <ClassDef glyph="articMarcatoTenutoBelow" class="0"/>
+          <ClassDef glyph="fermataAbove" class="0"/>
+          <ClassDef glyph="fermataBelow" class="0"/>
+          <ClassDef glyph="fermataShortAbove" class="0"/>
+          <ClassDef glyph="fermataShortBelow" class="0"/>
+          <ClassDef glyph="fermataLongAbove" class="0"/>
+          <ClassDef glyph="fermataLongBelow" class="0"/>
+          <ClassDef glyph="fermataVeryLongAbove" class="0"/>
+          <ClassDef glyph="fermataVeryLongBelow" class="0"/>
+          <ClassDef glyph="breathMarkComma" class="0"/>
+          <ClassDef glyph="caesura" class="0"/>
+          <ClassDef glyph="caesuraShort" class="0"/>
+          <ClassDef glyph="caesuraCurved" class="0"/>
+          <ClassDef glyph="caesuraSingleStroke" class="0"/>
+          <ClassDef glyph="restMaxima" class="0"/>
+          <ClassDef glyph="restLonga" class="0"/>
+          <ClassDef glyph="restDoubleWhole" class="0"/>
+          <ClassDef glyph="restWhole" class="0"/>
+          <ClassDef glyph="restHalf" class="0"/>
+          <ClassDef glyph="restQuarter" class="0"/>
+          <ClassDef glyph="rest8th" class="0"/>
+          <ClassDef glyph="rest16th" class="0"/>
+          <ClassDef glyph="rest32nd" class="0"/>
+          <ClassDef glyph="rest64th" class="0"/>
+          <ClassDef glyph="rest128th" class="0"/>
+          <ClassDef glyph="rest256th" class="0"/>
+          <ClassDef glyph="rest512th" class="0"/>
+          <ClassDef glyph="rest1024th" class="0"/>
+          <ClassDef glyph="restQuarterOld" class="0"/>
+          <ClassDef glyph="restDoubleWholeLegerLine" class="0"/>
+          <ClassDef glyph="restWholeLegerLine" class="0"/>
+          <ClassDef glyph="restHalfLegerLine" class="0"/>
+          <ClassDef glyph="restQuarterZ" class="0"/>
+          <ClassDef glyph="repeat1Bar" class="0"/>
+          <ClassDef glyph="repeat2Bars" class="0"/>
+          <ClassDef glyph="repeat4Bars" class="0"/>
+          <ClassDef glyph="repeatBarUpperDot" class="0"/>
+          <ClassDef glyph="repeatBarSlash" class="0"/>
+          <ClassDef glyph="repeatBarLowerDot" class="0"/>
+          <ClassDef glyph="ottava" class="0"/>
+          <ClassDef glyph="ottavaAlta" class="0"/>
+          <ClassDef glyph="ottavaBassa" class="0"/>
+          <ClassDef glyph="ottavaBassaBa" class="0"/>
+          <ClassDef glyph="quindicesima" class="0"/>
+          <ClassDef glyph="quindicesimaAlta" class="0"/>
+          <ClassDef glyph="quindicesimaBassa" class="0"/>
+          <ClassDef glyph="ventiduesima" class="0"/>
+          <ClassDef glyph="ventiduesimaAlta" class="0"/>
+          <ClassDef glyph="ventiduesimaBassa" class="0"/>
+          <ClassDef glyph="octaveParensLeft" class="0"/>
+          <ClassDef glyph="octaveParensRight" class="0"/>
+          <ClassDef glyph="ottavaBassaVb" class="0"/>
+          <ClassDef glyph="quindicesimaBassaMb" class="0"/>
+          <ClassDef glyph="ventiduesimaBassaMb" class="0"/>
+          <ClassDef glyph="octaveBassa" class="0"/>
+          <ClassDef glyph="dynamicMezzo" class="0"/>
+          <ClassDef glyph="dynamicForte" class="0"/>
+          <ClassDef glyph="dynamicRinforzando" class="0"/>
+          <ClassDef glyph="dynamicSforzando" class="0"/>
+          <ClassDef glyph="dynamicZ" class="0"/>
+          <ClassDef glyph="dynamicNiente" class="0"/>
+          <ClassDef glyph="dynamicMP" class="0"/>
+          <ClassDef glyph="dynamicMF" class="0"/>
+          <ClassDef glyph="dynamicPF" class="0"/>
+          <ClassDef glyph="dynamicFF" class="0"/>
+          <ClassDef glyph="dynamicFFF" class="0"/>
+          <ClassDef glyph="dynamicFFFF" class="0"/>
+          <ClassDef glyph="dynamicFFFFF" class="0"/>
+          <ClassDef glyph="dynamicFFFFFF" class="0"/>
+          <ClassDef glyph="dynamicFortePiano" class="0"/>
+          <ClassDef glyph="dynamicForzando" class="0"/>
+          <ClassDef glyph="dynamicSforzando1" class="0"/>
+          <ClassDef glyph="dynamicSforzandoPiano" class="0"/>
+          <ClassDef glyph="dynamicSforzandoPianissimo" class="0"/>
+          <ClassDef glyph="dynamicSforzato" class="0"/>
+          <ClassDef glyph="dynamicSforzatoPiano" class="0"/>
+          <ClassDef glyph="dynamicSforzatoFF" class="0"/>
+          <ClassDef glyph="dynamicRinforzando1" class="0"/>
+          <ClassDef glyph="dynamicRinforzando2" class="0"/>
+          <ClassDef glyph="dynamicCrescendoHairpin" class="0"/>
+          <ClassDef glyph="dynamicDiminuendoHairpin" class="0"/>
+          <ClassDef glyph="dynamicMessaDiVoce" class="0"/>
+          <ClassDef glyph="dynamicNienteForHairpin" class="0"/>
+          <ClassDef glyph="graceNoteAcciaccaturaStemUp" class="0"/>
+          <ClassDef glyph="graceNoteAcciaccaturaStemDown" class="0"/>
+          <ClassDef glyph="graceNoteAppoggiaturaStemUp" class="0"/>
+          <ClassDef glyph="graceNoteAppoggiaturaStemDown" class="0"/>
+          <ClassDef glyph="graceNoteSlashStemUp" class="0"/>
+          <ClassDef glyph="graceNoteSlashStemDown" class="0"/>
+          <ClassDef glyph="ornamentTrill" class="0"/>
+          <ClassDef glyph="ornamentTurn" class="0"/>
+          <ClassDef glyph="ornamentTurnInverted" class="0"/>
+          <ClassDef glyph="ornamentTurnSlash" class="0"/>
+          <ClassDef glyph="ornamentTurnUp" class="0"/>
+          <ClassDef glyph="ornamentTurnUpS" class="0"/>
+          <ClassDef glyph="ornamentShortTrill" class="0"/>
+          <ClassDef glyph="ornamentMordent" class="0"/>
+          <ClassDef glyph="ornamentTremblement" class="0"/>
+          <ClassDef glyph="ornamentHaydn" class="0"/>
+          <ClassDef glyph="ornamentPortDeVoixV" class="0"/>
+          <ClassDef glyph="ornamentRightFacingHalfCircle" class="0"/>
+          <ClassDef glyph="ornamentLeftFacingHalfCircle" class="0"/>
+          <ClassDef glyph="ornamentRightFacingHook" class="0"/>
+          <ClassDef glyph="ornamentLeftFacingHook" class="0"/>
+          <ClassDef glyph="ornamentHookBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentHookAfterNote" class="0"/>
+          <ClassDef glyph="ornamentDownCurve" class="0"/>
+          <ClassDef glyph="ornamentShortObliqueLineBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentShortObliqueLineAfterNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineAfterNote" class="0"/>
+          <ClassDef glyph="ornamentDoubleObliqueLinesBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentDoubleObliqueLinesAfterNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineHorizBeforeNote" class="0"/>
+          <ClassDef glyph="ornamentObliqueLineHorizAfterNote" class="0"/>
+          <ClassDef glyph="ornamentShake3" class="0"/>
+          <ClassDef glyph="ornamentVerticalLine" class="0"/>
+          <ClassDef glyph="ornamentShakeMuffat1" class="0"/>
+          <ClassDef glyph="ornamentSchleifer" class="0"/>
+          <ClassDef glyph="ornamentPinceCouperin" class="0"/>
+          <ClassDef glyph="ornamentLowLeftConcaveStroke" class="0"/>
+          <ClassDef glyph="ornamentZigZagLineNoRightEnd" class="0"/>
+          <ClassDef glyph="ornamentZigZagLineWithRightEnd" class="0"/>
+          <ClassDef glyph="ornamentPrecompAppoggTrill" class="0"/>
+          <ClassDef glyph="ornamentPrecompSlideTrillDAnglebert" class="0"/>
+          <ClassDef glyph="ornamentPrecompSlideTrillBach" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillSuffixDandrieu" class="0"/>
+          <ClassDef glyph="ornamentPrecompPortDeVoixMordent" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillWithMordent" class="0"/>
+          <ClassDef glyph="ornamentPrecompCadence" class="0"/>
+          <ClassDef glyph="ornamentPrecompDoubleCadenceLowerPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompDoubleCadenceUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompMordentUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompInvertedMordentUpperPrefix" class="0"/>
+          <ClassDef glyph="ornamentPrecompTrillLowerSuffix" class="0"/>
+          <ClassDef glyph="brassMuteClosed" class="0"/>
+          <ClassDef glyph="brassMuteHalfClosed" class="0"/>
+          <ClassDef glyph="brassMuteOpen" class="0"/>
+          <ClassDef glyph="brassHarmonMuteClosed" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemHalfLeft" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemHalfRight" class="0"/>
+          <ClassDef glyph="brassHarmonMuteStemOpen" class="0"/>
+          <ClassDef glyph="brassValveTrill" class="0"/>
+          <ClassDef glyph="stringsDownBow" class="0"/>
+          <ClassDef glyph="stringsDownBowTurned" class="0"/>
+          <ClassDef glyph="stringsUpBow" class="0"/>
+          <ClassDef glyph="stringsUpBowTurned" class="0"/>
+          <ClassDef glyph="stringsHarmonic" class="0"/>
+          <ClassDef glyph="stringsHalfHarmonic" class="0"/>
+          <ClassDef glyph="pluckedSnapPizzicatoBelow" class="0"/>
+          <ClassDef glyph="pluckedSnapPizzicatoAbove" class="0"/>
+          <ClassDef glyph="pluckedBuzzPizzicato" class="0"/>
+          <ClassDef glyph="keyboardPedalPed" class="0"/>
+          <ClassDef glyph="keyboardPedalP" class="0"/>
+          <ClassDef glyph="keyboardPedalE" class="0"/>
+          <ClassDef glyph="keyboardPedalD" class="0"/>
+          <ClassDef glyph="keyboardPedalDot" class="0"/>
+          <ClassDef glyph="keyboardPedalUp" class="0"/>
+          <ClassDef glyph="keyboardPedalParensLeft" class="0"/>
+          <ClassDef glyph="keyboardPedalParensRight" class="0"/>
+          <ClassDef glyph="harpPedalRaised" class="0"/>
+          <ClassDef glyph="harpPedalCentered" class="0"/>
+          <ClassDef glyph="harpPedalLowered" class="0"/>
+          <ClassDef glyph="harpPedalDivider" class="0"/>
+          <ClassDef glyph="csymDiminished" class="0"/>
+          <ClassDef glyph="csymHalfDiminished" class="0"/>
+          <ClassDef glyph="csymAugmented" class="0"/>
+          <ClassDef glyph="csymMajorSeventh" class="0"/>
+          <ClassDef glyph="tuplet0" class="0"/>
+          <ClassDef glyph="tuplet1" class="0"/>
+          <ClassDef glyph="tuplet2" class="0"/>
+          <ClassDef glyph="tuplet3" class="0"/>
+          <ClassDef glyph="tuplet4" class="0"/>
+          <ClassDef glyph="tuplet5" class="0"/>
+          <ClassDef glyph="tuplet6" class="0"/>
+          <ClassDef glyph="tuplet7" class="0"/>
+          <ClassDef glyph="tuplet8" class="0"/>
+          <ClassDef glyph="tuplet9" class="0"/>
+          <ClassDef glyph="tupletColon" class="0"/>
+          <ClassDef glyph="mensuralNoteheadMinimaWhite" class="0"/>
+          <ClassDef glyph="mensuralNoteheadSemiminimaWhite" class="0"/>
+          <ClassDef glyph="ornamentQuilisma" class="0"/>
+          <ClassDef glyph="ornamentOriscus" class="0"/>
+          <ClassDef glyph="wiggleTrill" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoUp" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoDown" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoUpArrow" class="0"/>
+          <ClassDef glyph="wiggleArpeggiatoDownArrow" class="0"/>
+          <ClassDef glyph="metNoteDoubleWhole" class="0"/>
+          <ClassDef glyph="metNoteWhole" class="0"/>
+          <ClassDef glyph="metNoteHalfUp" class="0"/>
+          <ClassDef glyph="metNoteQuarterUp" class="0"/>
+          <ClassDef glyph="metNote8thUp" class="0"/>
+          <ClassDef glyph="metNote16thUp" class="0"/>
+          <ClassDef glyph="metNote32ndUp" class="0"/>
+          <ClassDef glyph="metAugmentationDot" class="0"/>
+          <ClassDef glyph="fingering0" class="0"/>
+          <ClassDef glyph="fingering1" class="0"/>
+          <ClassDef glyph="fingering2" class="0"/>
+          <ClassDef glyph="fingering3" class="0"/>
+          <ClassDef glyph="fingering4" class="0"/>
+          <ClassDef glyph="fingering5" class="0"/>
+          <ClassDef glyph="fingering6" class="0"/>
+          <ClassDef glyph="fingering7" class="0"/>
+          <ClassDef glyph="fingering8" class="0"/>
+          <ClassDef glyph="fingering9" class="0"/>
+          <ClassDef glyph="fingering0Italic" class="0"/>
+          <ClassDef glyph="fingering1Italic" class="0"/>
+          <ClassDef glyph="fingering2Italic" class="0"/>
+          <ClassDef glyph="fingering3Italic" class="0"/>
+          <ClassDef glyph="fingering4Italic" class="0"/>
+          <ClassDef glyph="fingering5Italic" class="0"/>
+          <ClassDef glyph="fingering6Italic" class="0"/>
+          <ClassDef glyph="fingering7Italic" class="0"/>
+          <ClassDef glyph="fingering8Italic" class="0"/>
+          <ClassDef glyph="fingering9Italic" class="0"/>
+          <ClassDef glyph="uniF400" class="0"/>
+          <ClassDef glyph="uniF401" class="0"/>
+          <ClassDef glyph="uniF402" class="0"/>
+          <ClassDef glyph="uniF403" class="0"/>
+          <ClassDef glyph="uniF40E" class="0"/>
+          <ClassDef glyph="uniF40F" class="0"/>
+          <ClassDef glyph="uniF411" class="0"/>
+          <ClassDef glyph="uniF412" class="0"/>
+          <ClassDef glyph="uniF414" class="0"/>
+          <ClassDef glyph="uniF415" class="0"/>
+          <ClassDef glyph="uniF417" class="0"/>
+          <ClassDef glyph="uniF418" class="0"/>
+          <ClassDef glyph="uniF41A" class="0"/>
+          <ClassDef glyph="uniF41B" class="0"/>
+          <ClassDef glyph="uniF41D" class="0"/>
+          <ClassDef glyph="uniF41E" class="0"/>
+          <ClassDef glyph="uniF420" class="0"/>
+          <ClassDef glyph="uniF421" class="0"/>
+          <ClassDef glyph="uniF423" class="0"/>
+          <ClassDef glyph="uniF424" class="0"/>
+          <ClassDef glyph="uniF426" class="0"/>
+          <ClassDef glyph="uniF434" class="0"/>
+          <ClassDef glyph="uniF440" class="0"/>
+          <ClassDef glyph="uniF441" class="0"/>
+          <ClassDef glyph="uniF442" class="0"/>
+          <ClassDef glyph="uniF443" class="0"/>
+          <ClassDef glyph="uniF444" class="0"/>
+          <ClassDef glyph="uniF445" class="0"/>
+          <ClassDef glyph="uniF446" class="0"/>
+          <ClassDef glyph="uniF447" class="0"/>
+          <ClassDef glyph="uniF448" class="0"/>
+          <ClassDef glyph="uniF449" class="0"/>
+          <ClassDef glyph="uniF4BA" class="0"/>
+          <ClassDef glyph="uniF506" class="0"/>
+          <ClassDef glyph="uniF507" class="0"/>
+          <ClassDef glyph="uniF508" class="0"/>
+          <ClassDef glyph="uniF509" class="0"/>
+          <ClassDef glyph="uniF50A" class="0"/>
+          <ClassDef glyph="uniF50B" class="0"/>
+          <ClassDef glyph="uniF50C" class="0"/>
+          <ClassDef glyph="uniF50D" class="0"/>
+          <ClassDef glyph="uniF50E" class="0"/>
+          <ClassDef glyph="uniF50F" class="0"/>
+          <ClassDef glyph="uniF5DD" class="0"/>
+          <ClassDef glyph="uniF5DE" class="0"/>
+          <ClassDef glyph="uniF5DF" class="0"/>
+          <ClassDef glyph="uniF5E0" class="0"/>
+          <ClassDef glyph="uniF5E1" class="0"/>
+          <ClassDef glyph="uniF630" class="0"/>
+          <ClassDef glyph="uniF631" class="0"/>
+          <ClassDef glyph="_6stringTabClef" class="0"/>
+          <ClassDef glyph="_4stringTabClef" class="0"/>
+          <ClassDef glyph="dynamicPiano" class="1"/>
+          <ClassDef glyph="dynamicPPPPPP" class="1"/>
+          <ClassDef glyph="dynamicPPPPP" class="1"/>
+          <ClassDef glyph="dynamicPPPP" class="1"/>
+          <ClassDef glyph="dynamicPPP" class="1"/>
+          <ClassDef glyph="dynamicPP" class="1"/>
+        </ClassDef2>
+        <!-- Class1Count=3 -->
+        <!-- Class2Count=2 -->
+        <Class1Record index="0">
+          <Class2Record index="0">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+          <Class2Record index="1">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+        </Class1Record>
+        <Class1Record index="1">
+          <Class2Record index="0">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+          <Class2Record index="1">
+            <Value1 XAdvance="-70"/>
+          </Class2Record>
+        </Class1Record>
+        <Class1Record index="2">
+          <Class2Record index="0">
+            <Value1 XAdvance="0"/>
+          </Class2Record>
+          <Class2Record index="1">
+            <Value1 XAdvance="-25"/>
+          </Class2Record>
+        </Class1Record>
+      </PairPos>
+    </Lookup>
+  </LookupList>
+</GPOS>
+<GSUB>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=1 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="0"/>
+          <FeatureIndex index="1" value="1"/>
+          <FeatureIndex index="2" value="2"/>
+          <FeatureIndex index="3" value="3"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=4 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="liga"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="1">
+      <FeatureTag value="salt"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="2">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="3">
+      <FeatureTag value="ss02"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=4 -->
+    <Lookup index="0">
+      <LookupType value="4"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <LigatureSubst index="0" Format="1">
+        <LigatureSet glyph="dynamicPiano">
+          <Ligature components="dynamicPiano,dynamicPiano,dynamicPiano,dynamicPiano,dynamicPiano" glyph="dynamicPPPPPP"/>
+          <Ligature components="dynamicPiano,dynamicPiano,dynamicPiano,dynamicPiano" glyph="dynamicPPPPP"/>
+          <Ligature components="dynamicPiano,dynamicPiano,dynamicPiano" glyph="dynamicPPPP"/>
+          <Ligature components="dynamicPiano,dynamicPiano" glyph="dynamicPPP"/>
+          <Ligature components="dynamicPiano" glyph="dynamicPP"/>
+          <Ligature components="dynamicForte" glyph="dynamicPF"/>
+        </LigatureSet>
+        <LigatureSet glyph="dynamicMezzo">
+          <Ligature components="dynamicPiano" glyph="dynamicMP"/>
+          <Ligature components="dynamicForte" glyph="dynamicMF"/>
+        </LigatureSet>
+        <LigatureSet glyph="dynamicForte">
+          <Ligature components="dynamicForte,dynamicForte,dynamicForte,dynamicForte,dynamicForte" glyph="dynamicFFFFFF"/>
+          <Ligature components="dynamicForte,dynamicForte,dynamicForte,dynamicForte" glyph="dynamicFFFFF"/>
+          <Ligature components="dynamicForte,dynamicForte,dynamicForte" glyph="dynamicFFFF"/>
+          <Ligature components="dynamicForte,dynamicForte" glyph="dynamicFFF"/>
+          <Ligature components="dynamicPiano" glyph="dynamicFortePiano"/>
+          <Ligature components="dynamicForte" glyph="dynamicFF"/>
+          <Ligature components="dynamicZ" glyph="dynamicForzando"/>
+        </LigatureSet>
+        <LigatureSet glyph="dynamicRinforzando">
+          <Ligature components="dynamicForte,dynamicZ" glyph="dynamicRinforzando2"/>
+          <Ligature components="dynamicForte" glyph="dynamicRinforzando1"/>
+        </LigatureSet>
+        <LigatureSet glyph="dynamicSforzando">
+          <Ligature components="dynamicForte,dynamicPiano,dynamicPiano" glyph="dynamicSforzandoPianissimo"/>
+          <Ligature components="dynamicForte,dynamicForte,dynamicZ" glyph="dynamicSforzatoFF"/>
+          <Ligature components="dynamicForte,dynamicZ,dynamicPiano" glyph="dynamicSforzatoPiano"/>
+          <Ligature components="dynamicForte,dynamicPiano" glyph="dynamicSforzandoPiano"/>
+          <Ligature components="dynamicForte,dynamicForte" glyph="uniF631"/>
+          <Ligature components="dynamicForte,dynamicZ" glyph="dynamicSforzato"/>
+          <Ligature components="dynamicForte" glyph="dynamicSforzando1"/>
+        </LigatureSet>
+        <LigatureSet glyph="keyboardPedalP">
+          <Ligature components="keyboardPedalE,keyboardPedalD,keyboardPedalDot" glyph="keyboardPedalPed"/>
+          <Ligature components="keyboardPedalE,keyboardPedalD" glyph="uniF434"/>
+        </LigatureSet>
+      </LigatureSubst>
+    </Lookup>
+    <Lookup index="1">
+      <LookupType value="3"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="brace">
+          <Alternate glyph="uniF400"/>
+          <Alternate glyph="uniF401"/>
+          <Alternate glyph="uniF402"/>
+          <Alternate glyph="uniF403"/>
+        </AlternateSet>
+        <AlternateSet glyph="noteheadDoubleWhole">
+          <Alternate glyph="uniF4BA"/>
+        </AlternateSet>
+        <AlternateSet glyph="noteDoubleWhole">
+          <Alternate glyph="uniF40E"/>
+        </AlternateSet>
+      </AlternateSubst>
+    </Lookup>
+    <Lookup index="2">
+      <LookupType value="3"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="timeSig0">
+          <Alternate glyph="uniF506"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig1">
+          <Alternate glyph="uniF507"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig2">
+          <Alternate glyph="uniF508"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig3">
+          <Alternate glyph="uniF509"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig4">
+          <Alternate glyph="uniF50A"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig5">
+          <Alternate glyph="uniF50B"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig6">
+          <Alternate glyph="uniF50C"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig7">
+          <Alternate glyph="uniF50D"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig8">
+          <Alternate glyph="uniF50E"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig9">
+          <Alternate glyph="uniF50F"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag8thUp">
+          <Alternate glyph="uniF40F"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag8thDown">
+          <Alternate glyph="uniF411"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag16thUp">
+          <Alternate glyph="uniF412"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag16thDown">
+          <Alternate glyph="uniF414"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag32ndUp">
+          <Alternate glyph="uniF415"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag32ndDown">
+          <Alternate glyph="uniF417"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag64thUp">
+          <Alternate glyph="uniF418"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag64thDown">
+          <Alternate glyph="uniF41A"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag128thUp">
+          <Alternate glyph="uniF41B"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag128thDown">
+          <Alternate glyph="uniF41D"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag256thUp">
+          <Alternate glyph="uniF41E"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag256thDown">
+          <Alternate glyph="uniF420"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag512thUp">
+          <Alternate glyph="uniF421"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag512thDown">
+          <Alternate glyph="uniF423"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag1024thUp">
+          <Alternate glyph="uniF424"/>
+        </AlternateSet>
+        <AlternateSet glyph="flag1024thDown">
+          <Alternate glyph="uniF426"/>
+        </AlternateSet>
+        <AlternateSet glyph="keyboardPedalPed">
+          <Alternate glyph="uniF434"/>
+        </AlternateSet>
+      </AlternateSubst>
+    </Lookup>
+    <Lookup index="3">
+      <LookupType value="3"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="timeSig0">
+          <Alternate glyph="uniF440"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig1">
+          <Alternate glyph="uniF441"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig2">
+          <Alternate glyph="uniF442"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig3">
+          <Alternate glyph="uniF443"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig4">
+          <Alternate glyph="uniF444"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig5">
+          <Alternate glyph="uniF445"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig6">
+          <Alternate glyph="uniF446"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig7">
+          <Alternate glyph="uniF447"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig8">
+          <Alternate glyph="uniF448"/>
+        </AlternateSet>
+        <AlternateSet glyph="timeSig9">
+          <Alternate glyph="uniF449"/>
+        </AlternateSet>
+      </AlternateSubst>
+    </Lookup>
+  </LookupList>
+</GSUB>
+</OTLayout>

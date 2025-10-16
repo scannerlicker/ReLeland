@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="harpPedalDivider" format="2">
+  <advance width="270"/>
+  <unicode hex="E683"/>
+  <outline>
+    <contour>
+      <point x="124" y="871" type="line"/>
+      <point x="124" y="386" type="line"/>
+      <point x="0" y="386" type="line"/>
+      <point x="0" y="364" type="line"/>
+      <point x="124" y="364" type="line"/>
+      <point x="124" y="-122" type="line"/>
+      <point x="146" y="-122" type="line"/>
+      <point x="146" y="364" type="line"/>
+      <point x="270" y="364" type="line"/>
+      <point x="270" y="386" type="line"/>
+      <point x="146" y="386" type="line"/>
+      <point x="146" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w270m124,871l124,386l0,386l0,364l124,364l124,-122l146,-122l146,364l270,364l270,386l146,386l146,871</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 360 30</string>
+          <string>vstem 110 30</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

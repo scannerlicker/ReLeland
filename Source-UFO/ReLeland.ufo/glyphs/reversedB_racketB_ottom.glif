@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reversedBracketBottom" format="2">
+  <advance width="491"/>
+  <unicode hex="E006"/>
+  <outline>
+    <contour>
+      <point x="7" y="-277" type="curve" smooth="yes"/>
+      <point x="9" y="-278"/>
+      <point x="12" y="-279"/>
+      <point x="14" y="-279" type="curve" smooth="yes"/>
+      <point x="18" y="-279"/>
+      <point x="23" y="-278"/>
+      <point x="25" y="-274" type="curve" smooth="yes"/>
+      <point x="27" y="-271"/>
+      <point x="127" y="-117"/>
+      <point x="318" y="-117" type="curve" smooth="yes"/>
+      <point x="477" y="-117" type="line" smooth="yes"/>
+      <point x="485" y="-117"/>
+      <point x="491" y="-112"/>
+      <point x="491" y="-104" type="curve" smooth="yes"/>
+      <point x="491" y="0" type="line"/>
+      <point x="369" y="0" type="line" smooth="yes"/>
+      <point x="61" y="0"/>
+      <point x="2" y="-257"/>
+      <point x="1" y="-260" type="curve"/>
+      <point x="1" y="-261"/>
+      <point x="0" y="-263"/>
+      <point x="0" y="-265" type="curve" smooth="yes"/>
+      <point x="0" y="-270"/>
+      <point x="3" y="-274"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d14b6b1f7a516be9f90ae62b13165ba3bd694f6862ac3fc244acb0980b832d6d9111c028c329adf619fa5bbb1ae7de7f6b1dd2ca66fdb715abec1c8fc51b0f1b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -117 117</string>
+          <string>vstem 0 491</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

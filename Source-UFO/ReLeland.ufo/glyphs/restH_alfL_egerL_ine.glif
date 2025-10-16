@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="restHalfLegerLine" format="2">
+  <advance width="325"/>
+  <unicode hex="E4F5"/>
+  <outline>
+    <contour>
+      <point x="464" y="14" type="line"/>
+      <point x="325" y="14" type="line"/>
+      <point x="325" y="108" type="line" smooth="yes"/>
+      <point x="325" y="116"/>
+      <point x="320" y="122"/>
+      <point x="312" y="122" type="curve" smooth="yes"/>
+      <point x="13" y="122" type="line" smooth="yes"/>
+      <point x="5" y="122"/>
+      <point x="0" y="116"/>
+      <point x="0" y="108" type="curve" smooth="yes"/>
+      <point x="0" y="14" type="line"/>
+      <point x="-139" y="14" type="line"/>
+      <point x="-139" y="-14" type="line"/>
+      <point x="464" y="-14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w325m464,14l325,14l325,108c325,116 320,122 312,122l13,122c5,122 0,116 0,108l0,14l-139,14l-139,-14l464,-14</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -14 28</string>
+          <string>vstem -139 603</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="buzzRoll" format="2">
+  <advance width="150"/>
+  <unicode hex="E22A"/>
+  <outline>
+    <contour>
+      <point x="-76" y="-85" type="line"/>
+      <point x="150" y="75" type="line"/>
+      <point x="150" y="140" type="line"/>
+      <point x="-150" y="140" type="line"/>
+      <point x="-150" y="85" type="line"/>
+      <point x="76" y="85" type="line"/>
+      <point x="-150" y="-72" type="line"/>
+      <point x="-150" y="-140" type="line"/>
+      <point x="150" y="-140" type="line"/>
+      <point x="150" y="-85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w150m-76,-85l150,75l150,140l-150,140l-150,85l76,85l-150,-72l-150,-140l150,-140l150,-85</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -140 55</string>
+          <string>hstem 85 55</string>
+          <string>vstem -150 300</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteheadTriangleLeftBlack" format="2">
+  <advance width="339"/>
+  <unicode hex="E0C0"/>
+  <outline>
+    <contour>
+      <point x="0" y="122" type="line"/>
+      <point x="0" y="-136" type="line"/>
+      <point x="339" y="-136" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w339m0,122l0,-136l339,-136</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -136 258</string>
+          <string>vstem 0 339</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

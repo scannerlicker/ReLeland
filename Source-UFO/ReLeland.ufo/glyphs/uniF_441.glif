@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF441" format="2">
+  <advance width="112"/>
+  <unicode hex="F441"/>
+  <outline>
+    <contour>
+      <point x="97" y="245" type="line"/>
+      <point x="70" y="245" type="line"/>
+      <point x="62" y="173"/>
+      <point x="53" y="158"/>
+      <point x="15" y="152" type="curve"/>
+      <point x="15" y="113" type="line" name=".hr01"/>
+      <point x="62" y="113" type="line"/>
+      <point x="62" y="-243" type="line"/>
+      <point x="97" y="-243" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w112m97,245l70,245c62,173 53,158 15,152l15,113l62,113l62,-243l97,-243</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 113 39</string>
+          <string>hstem 245 -20</string>
+          <string>vstem 62 35</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 113 132</string>
+          <string>vstem 62 35</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

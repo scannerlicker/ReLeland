@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteheadClusterSquareBlack" format="2">
+  <advance width="325"/>
+  <unicode hex="E121"/>
+  <outline>
+    <contour>
+      <point x="0" y="-126" type="line"/>
+      <point x="325" y="-126" type="line"/>
+      <point x="325" y="626" type="line"/>
+      <point x="0" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w325m0,-126l325,-126l325,626l0,626</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 50</string>
+          <string>hstem 699 50</string>
+          <string>vstem 0 50</string>
+          <string>vstem 275 50</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

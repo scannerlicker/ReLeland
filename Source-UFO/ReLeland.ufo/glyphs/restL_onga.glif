@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="restLonga" format="2">
+  <advance width="125"/>
+  <unicode hex="E4E1"/>
+  <outline>
+    <contour>
+      <point x="110" y="-250" type="line" smooth="yes"/>
+      <point x="118" y="-250"/>
+      <point x="125" y="-243"/>
+      <point x="125" y="-235" type="curve" smooth="yes"/>
+      <point x="125" y="235" type="line" smooth="yes"/>
+      <point x="125" y="243"/>
+      <point x="118" y="250"/>
+      <point x="110" y="250" type="curve" smooth="yes"/>
+      <point x="15" y="250" type="line" smooth="yes"/>
+      <point x="7" y="250"/>
+      <point x="0" y="243"/>
+      <point x="0" y="235" type="curve" smooth="yes"/>
+      <point x="0" y="-235" type="line" smooth="yes"/>
+      <point x="0" y="-243"/>
+      <point x="7" y="-250"/>
+      <point x="15" y="-250" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w125m110,-250c118,-250 125,-243 125,-235l125,235c125,243 118,250 110,250l15,250c7,250 0,243 0,235l0,-235c0,-243 7,-250 15,-250</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 250 -20</string>
+          <string>vstem 0 125</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stringsDownBowTurned" format="2">
+  <advance width="315"/>
+  <unicode hex="E611"/>
+  <outline>
+    <contour>
+      <point x="0" y="14" type="line"/>
+      <point x="0" y="14" name=".hr01"/>
+      <point x="6" y="0"/>
+      <point x="14" y="0" type="curve" smooth="yes"/>
+      <point x="301" y="0" type="line" smooth="yes"/>
+      <point x="309" y="0"/>
+      <point x="315" y="6"/>
+      <point x="315" y="14" type="curve" smooth="yes"/>
+      <point x="315" y="293" type="line"/>
+      <point x="287" y="293" type="line"/>
+      <point x="287" y="91" type="line"/>
+      <point x="28" y="91" type="line"/>
+      <point x="28" y="293" type="line"/>
+      <point x="0" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w315m0,14c0,14 6,0 14,0l301,0c309,0 315,6 315,14l315,293l287,293l287,91l28,91l28,293l0,293</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 91</string>
+          <string>vstem 0 28</string>
+          <string>vstem 287 28</string>
+          <string>hstem 14 77</string>
+          <string>vstem 0 28</string>
+          <string>vstem 287 28</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 91</string>
+          <string>vstem 0 28</string>
+          <string>vstem 287 28</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

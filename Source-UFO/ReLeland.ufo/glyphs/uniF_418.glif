@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF418" format="2">
+  <advance width="289"/>
+  <unicode hex="F418"/>
+  <outline>
+    <contour>
+      <point x="0" y="249" type="line"/>
+      <point x="289" y="174" type="line"/>
+      <point x="289" y="299" type="line"/>
+      <point x="0" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-125" type="line"/>
+      <point x="289" y="-200" type="line"/>
+      <point x="289" y="-75" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="62" type="line"/>
+      <point x="289" y="-13" type="line"/>
+      <point x="289" y="112" type="line"/>
+      <point x="0" y="187" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-313" type="line"/>
+      <point x="289" y="-388" type="line"/>
+      <point x="289" y="-263" type="line"/>
+      <point x="0" y="-188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w289m0,249l289,174l289,299l0,374m0,-125l289,-200l289,-75l0,0m0,62l289,-13l289,112l0,187m0,-313l289,-388l289,-263l0,-188</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 8 -21</string>
+          <string>vstem 0 289</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

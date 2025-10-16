@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="graceNoteSlashStemDown" format="2">
+  <advance width="489"/>
+  <unicode hex="E565"/>
+  <outline>
+    <contour>
+      <point x="468" y="-299" type="curve" smooth="yes"/>
+      <point x="479" y="-299"/>
+      <point x="489" y="-290"/>
+      <point x="489" y="-279" type="curve" smooth="yes"/>
+      <point x="489" y="-273"/>
+      <point x="485" y="-264"/>
+      <point x="479" y="-261" type="curve" smooth="yes"/>
+      <point x="30" y="-3" type="line" smooth="yes"/>
+      <point x="27" y="-2"/>
+      <point x="23" y="0"/>
+      <point x="20" y="0" type="curve" smooth="yes"/>
+      <point x="9" y="0"/>
+      <point x="0" y="-9"/>
+      <point x="0" y="-20" type="curve" smooth="yes"/>
+      <point x="0" y="-26"/>
+      <point x="5" y="-35"/>
+      <point x="10" y="-38" type="curve" smooth="yes"/>
+      <point x="458" y="-297" type="line" smooth="yes"/>
+      <point x="461" y="-299"/>
+      <point x="465" y="-299"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>11c3669051eb29cc613841d0e2bf7308f9d02f5cee652aa5859daeca8426007789f2c430513821ff5ea0e09ba1035a8ccc5799d2f157e72695a8b41ef0084507</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -299 299</string>
+          <string>vstem 0 489</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

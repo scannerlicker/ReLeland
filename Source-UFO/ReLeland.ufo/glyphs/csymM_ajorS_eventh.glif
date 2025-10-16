@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="csymMajorSeventh" format="2">
+  <advance width="501"/>
+  <unicode hex="E873"/>
+  <outline>
+    <contour>
+      <point x="250" y="490" type="line"/>
+      <point x="0" y="10" type="line"/>
+      <point x="500" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="367" type="line"/>
+      <point x="406" y="67" type="line"/>
+      <point x="94" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w501m250,490l0,10l500,10m250,367l406,67l94,67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 57</string>
+          <string>hstem 490 -20</string>
+          <string>vstem 0 500</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
