@@ -1,6 +1,6 @@
 # ReLeland music fonts
 
-This repository contains the **ReLeland music font, Version 0.1**.
+This repository contains the **ReLeland music font, Version 0.2**.
 
 ## About the fonts
 
