@@ -4,7 +4,7 @@ This repository contains the **ReLeland music font, Version 0.2**.
 
 ## About the fonts
 
-ReLeland is a drag-and-drop redrawing -- mostly a cleanup, of the Leland music font (Leland), Version 0.1 are available in Type 1, OpenType-CFF format and UFO. As the original, it is distributed under the [SIL Open Font License (OFL), Version 1.1](./LICENSE.txt).
+ReLeland is a drag-and-drop redrawing -- mostly a cleanup, of the Leland music font (Leland), Version 0.2 are available in Type 1, OpenType-CFF format and UFO. As the original, it is distributed under the [SIL Open Font License (OFL), Version 1.1](./LICENSE.txt).
 
 Leland has been initially developed for MuseScore Studio (https://www.musescore.org) music composition software.
 
