@@ -44,7 +44,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/10/16 05:55:36</string>
+  <string>2025/10/16 06:45:37</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -178,7 +178,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNameUniqueID</key>
   <string>Version 0.80;PfEd;Leland;2021;FL842</string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.001</string>
+  <string>Version 0.002</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -337,7 +337,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>xHeight</key>
   <integer>275</integer>
 </dict>

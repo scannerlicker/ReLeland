@@ -22,7 +22,7 @@
       <point x="59" y="995" type="curve"/>
       <point x="58" y="995"/>
       <point x="56" y="995"/>
-      <point x="55" y="993" type="curve" smooth="yes"/>
+      <point x="55" y="993" type="curve"/>
       <point x="54" y="992"/>
       <point x="0" y="938"/>
       <point x="0" y="856" type="curve" smooth="yes"/>
@@ -32,12 +32,9 @@
       <point x="35" y="569"/>
       <point x="26" y="534"/>
       <point x="1" y="503" type="curve"/>
-      <point x="0" y="503"/>
-      <point x="0" y="501"/>
-      <point x="0" y="500" type="curve"/>
-      <point x="-1" y="499"/>
+      <point x="0" y="502"/>
       <point x="0" y="498"/>
-      <point x="1" y="497" type="curve" smooth="yes"/>
+      <point x="1" y="497" type="curve"/>
       <point x="26" y="466"/>
       <point x="35" y="431"/>
       <point x="35" y="409" type="curve" smooth="yes"/>
@@ -46,7 +43,7 @@
       <point x="0" y="144" type="curve" smooth="yes"/>
       <point x="0" y="63"/>
       <point x="54" y="8"/>
-      <point x="55" y="7" type="curve" smooth="yes"/>
+      <point x="55" y="7" type="curve"/>
       <point x="56" y="5"/>
       <point x="58" y="4"/>
       <point x="59" y="5" type="curve" smooth="yes"/>
@@ -68,12 +65,14 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ca55763f44bad6a52c18ed69e148d398ea48f156c38392b8afe7f514b2fb609bc4a4601cceb542dc0ff112b7b48de52040e0886147340a807c55e0260f654ee1</string>
+    <string>80d5824bdb4ccccd51750e502e784b72ddb5d8f14a0f70a54a00cb68408ba2bca06300b05f369c0488025d92b93efcf572becaccb9e583b1393af9a9d55c4020</string>
     <key>hintSetList</key>
     <array>
       <dict>

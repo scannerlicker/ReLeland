@@ -13,3 +13,8 @@ ReLeland is compliant with [Standard Music Font Layout (SMuFL)](https://w3c.gith
 The font is named after [Leland Smith](https://en.wikipedia.org/wiki/Leland_Smith), creator of the [SCORE](https://en.wikipedia.org/wiki/SCORE_(software)) music notation software.
 
 You can find MuseScore's repository for Leland [here](https://github.com/MuseScoreFonts/Leland), from where this repository is forked.
+
+## Notes
+This project is being executed on top of Leland. This means that glyphs that haven't been worked on keep the original drawing.
+
+You can find the changelong [here](changelog.md), in order to track what has been worked on.

@@ -4,13 +4,13 @@
   <unicode hex="E08A"/>
   <outline>
     <contour>
-      <point x="325" y="179" type="curve" smooth="yes"/>
+      <point x="325" y="179" type="curve"/>
       <point x="300" y="163"/>
       <point x="282" y="134"/>
       <point x="282" y="102" type="curve" smooth="yes"/>
       <point x="282" y="98"/>
       <point x="282" y="94"/>
-      <point x="283" y="90" type="curve" smooth="yes"/>
+      <point x="283" y="90" type="curve"/>
       <point x="288" y="49"/>
       <point x="321" y="17"/>
       <point x="362" y="12" type="curve"/>
@@ -21,7 +21,7 @@
       <point x="463" y="108" type="line" smooth="yes"/>
       <point x="463" y="112"/>
       <point x="462" y="119"/>
-      <point x="461" y="123" type="curve" smooth="yes"/>
+      <point x="461" y="123" type="curve"/>
       <point x="452" y="166"/>
       <point x="413" y="258"/>
       <point x="243" y="258" type="curve" smooth="yes"/>
@@ -31,7 +31,7 @@
       <point x="0" y="-107"/>
       <point x="15" y="-256"/>
       <point x="265" y="-256" type="curve" smooth="yes"/>
-      <point x="364" y="-256" name=".hr01"/>
+      <point x="364" y="-256"/>
       <point x="441" y="-198"/>
       <point x="445" y="-91" type="curve"/>
       <point x="445" y="-86"/>
@@ -53,7 +53,7 @@
       <point x="247" y="222" type="curve" smooth="yes"/>
       <point x="294" y="222"/>
       <point x="315" y="205"/>
-      <point x="326" y="188" type="curve" smooth="yes"/>
+      <point x="326" y="188" type="curve"/>
       <point x="327" y="186"/>
       <point x="327" y="185"/>
       <point x="327" y="183" type="curve"/>
@@ -63,6 +63,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -79,19 +81,8 @@
           <string>hstem 222 36</string>
           <string>vstem 0 136</string>
           <string>vstem 282 181</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -256 32</string>
-          <string>hstem 33 -21</string>
-          <string>hstem 222 36</string>
-          <string>vstem 0 136</string>
           <string>vstem 416 29</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

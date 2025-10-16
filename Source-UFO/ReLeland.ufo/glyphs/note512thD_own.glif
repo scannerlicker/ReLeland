@@ -112,7 +112,7 @@
       <point x="35" y="-829" type="curve"/>
       <point x="39" y="-807"/>
       <point x="48" y="-781"/>
-      <point x="63" y="-758" type="curve" smooth="yes"/>
+      <point x="63" y="-758" type="curve"/>
       <point x="101" y="-703"/>
       <point x="190" y="-657"/>
     </contour>
@@ -180,7 +180,7 @@
       <point x="63" y="-1323" type="curve" smooth="yes"/>
       <point x="101" y="-1268"/>
       <point x="190" y="-1221"/>
-      <point x="241" y="-1163" type="curve" smooth="yes"/>
+      <point x="241" y="-1163" type="curve"/>
       <point x="250" y="-1152"/>
       <point x="258" y="-1141"/>
       <point x="265" y="-1130" type="curve"/>
@@ -194,7 +194,7 @@
       <point x="63" y="-1511" type="curve" smooth="yes"/>
       <point x="101" y="-1456"/>
       <point x="190" y="-1409"/>
-      <point x="241" y="-1351" type="curve" smooth="yes"/>
+      <point x="241" y="-1351" type="curve"/>
       <point x="251" y="-1339"/>
       <point x="260" y="-1327"/>
       <point x="267" y="-1315" type="curve"/>
@@ -207,6 +207,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

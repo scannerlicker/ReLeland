@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>brace</key>
+  <string>brace.glif</string>
+  <key>systemDivider</key>
+  <string>systemD_ivider.glif</string>
+  <key>systemDividerExtraLong</key>
+  <string>systemD_ividerE_xtraL_ong.glif</string>
+  <key>systemDividerLong</key>
+  <string>systemD_ividerL_ong.glif</string>
+</dict>
+</plist>

@@ -36,7 +36,7 @@
       <point x="7" y="388"/>
       <point x="1" y="383"/>
       <point x="0" y="376" type="curve"/>
-      <point x="0" y="18" type="line" smooth="yes" name=".hr01"/>
+      <point x="0" y="18" type="line" smooth="yes"/>
       <point x="0" y="11"/>
       <point x="6" y="3"/>
       <point x="13" y="1" type="curve"/>
@@ -47,7 +47,7 @@
       <point x="30" y="4"/>
       <point x="33" y="9" type="curve" smooth="yes"/>
       <point x="109" y="135" type="line"/>
-      <point x="184" y="10" type="line" smooth="yes" name=".hr02"/>
+      <point x="184" y="10" type="line" smooth="yes"/>
       <point x="186" y="6"/>
       <point x="192" y="3"/>
       <point x="196" y="3" type="curve" smooth="yes"/>
@@ -76,6 +76,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -87,30 +89,11 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>hstem 24 -21</string>
-          <string>hstem 251 -20</string>
-          <string>vstem 0 28</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 22 -21</string>
-          <string>hstem 251 -20</string>
-          <string>vstem 0 28</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 24 -21</string>
           <string>hstem 251 -20</string>
           <string>vstem 0 28</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
       </dict>
     </array>
   </dict>

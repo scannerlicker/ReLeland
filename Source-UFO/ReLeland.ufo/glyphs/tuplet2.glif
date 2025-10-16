@@ -21,7 +21,7 @@
       <point x="297" y="269" type="curve" smooth="yes"/>
       <point x="297" y="295"/>
       <point x="284" y="322"/>
-      <point x="266" y="338" type="curve" smooth="yes"/>
+      <point x="266" y="338" type="curve"/>
       <point x="247" y="353"/>
       <point x="218" y="362"/>
       <point x="186" y="362" type="curve" smooth="yes"/>
@@ -64,6 +64,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

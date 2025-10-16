@@ -62,13 +62,13 @@
       <point x="256" y="176" type="curve" smooth="yes"/>
       <point x="256" y="181"/>
       <point x="253" y="186"/>
-      <point x="248" y="187" type="curve" smooth="yes"/>
+      <point x="248" y="187" type="curve"/>
       <point x="247" y="188"/>
       <point x="246" y="188"/>
       <point x="244" y="188" type="curve"/>
       <point x="239" y="187"/>
       <point x="235" y="184"/>
-      <point x="234" y="180" type="curve" smooth="yes"/>
+      <point x="234" y="180" type="curve"/>
       <point x="233" y="179"/>
       <point x="202" y="103"/>
       <point x="155" y="103" type="curve" smooth="yes"/>
@@ -81,6 +81,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

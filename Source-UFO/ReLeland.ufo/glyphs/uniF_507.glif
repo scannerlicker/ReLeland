@@ -35,7 +35,7 @@
       <point x="90" y="245"/>
       <point x="87" y="238"/>
       <point x="87" y="238" type="curve"/>
-      <point x="16" y="32" type="line" smooth="yes"/>
+      <point x="16" y="32" type="line"/>
       <point x="15" y="31"/>
       <point x="15" y="30"/>
       <point x="15" y="29" type="curve"/>
@@ -46,6 +46,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

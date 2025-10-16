@@ -6,7 +6,7 @@
     <contour>
       <point x="167" y="254" type="line"/>
       <point x="152" y="254" type="line"/>
-      <point x="136" y="242" name=".hr01"/>
+      <point x="136" y="242"/>
       <point x="90" y="230"/>
       <point x="53" y="228" type="curve"/>
       <point x="49" y="210" type="line"/>
@@ -42,6 +42,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -54,19 +56,10 @@
         <key>stems</key>
         <array>
           <string>hstem 0 19</string>
+          <string>hstem 210 18</string>
           <string>hstem 254 -20</string>
           <string>vstem 0 167</string>
         </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 19</string>
-          <string>hstem 210 18</string>
-          <string>vstem 0 167</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

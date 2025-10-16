@@ -4,7 +4,7 @@
   <unicode hex="E04B"/>
   <outline>
     <contour>
-      <point x="166" y="297" type="curve" smooth="yes"/>
+      <point x="166" y="297" type="curve"/>
       <point x="136" y="313"/>
       <point x="79" y="350"/>
       <point x="79" y="427" type="curve" smooth="yes"/>
@@ -36,7 +36,7 @@
       <point x="365" y="371" type="line"/>
       <point x="376" y="366"/>
       <point x="384" y="361"/>
-      <point x="389" y="359" type="curve" smooth="yes"/>
+      <point x="389" y="359" type="curve"/>
       <point x="419" y="342"/>
       <point x="475" y="325"/>
       <point x="475" y="228" type="curve" smooth="yes"/>
@@ -199,6 +199,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

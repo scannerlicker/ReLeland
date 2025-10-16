@@ -66,4 +66,28 @@
       <point x="35" y="519"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>959ebe9d40ed4a65a669da2dec939ed0131d5a32ac76c6789abb4bab90f9697bbf20b86d3de0021f3f28d0a40b5824b271e70306b17ff09b8b6ee8a7c020837e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 26 -21</string>
+          <string>vstem 0 27</string>
+          <string>vstem 39 23</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

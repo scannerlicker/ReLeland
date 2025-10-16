@@ -44,7 +44,7 @@
       <point x="161" y="-244"/>
       <point x="184" y="-236"/>
       <point x="209" y="-210" type="curve" smooth="yes"/>
-      <point x="232" y="-185" name=".hr01"/>
+      <point x="232" y="-185"/>
       <point x="256" y="-145"/>
       <point x="256" y="-87" type="curve" smooth="yes"/>
       <point x="256" y="11"/>
@@ -67,6 +67,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -83,19 +85,8 @@
           <string>hstem 208 37</string>
           <string>vstem 15 86</string>
           <string>vstem 153 89</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -244 42</string>
-          <string>hstem 20 48</string>
-          <string>hstem 208 37</string>
-          <string>vstem 15 86</string>
           <string>vstem 181 75</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>

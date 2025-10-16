@@ -9,7 +9,7 @@
       <point x="128" y="189" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="90" type="line" name=".hr01"/>
+      <point x="197" y="90" type="line"/>
       <point x="156" y="90" type="line"/>
       <point x="200" y="254" type="line"/>
       <point x="166" y="254" type="line"/>
@@ -43,6 +43,8 @@
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -55,24 +57,11 @@
         <key>stems</key>
         <array>
           <string>hstem 0 19</string>
-          <string>hstem 66 24</string>
-          <string>hstem 254 -20</string>
-          <string>vstem 0 200</string>
           <string>hstem 0 90</string>
-          <string>hstem 254 -20</string>
-          <string>vstem 0 200</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 19</string>
           <string>hstem 66 24</string>
           <string>hstem 254 -20</string>
           <string>vstem 0 200</string>
         </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
       </dict>
     </array>
   </dict>
