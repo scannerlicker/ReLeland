@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="harpPedalDivider" format="2">
+  <advance width="270"/>
+  <unicode hex="E683"/>
+  <outline>
+    <contour>
+      <point x="124" y="871" type="line"/>
+      <point x="124" y="386" type="line"/>
+      <point x="0" y="386" type="line"/>
+      <point x="0" y="364" type="line"/>
+      <point x="124" y="364" type="line"/>
+      <point x="124" y="-122" type="line"/>
+      <point x="146" y="-122" type="line"/>
+      <point x="146" y="364" type="line"/>
+      <point x="270" y="364" type="line"/>
+      <point x="270" y="386" type="line"/>
+      <point x="146" y="386" type="line"/>
+      <point x="146" y="871" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

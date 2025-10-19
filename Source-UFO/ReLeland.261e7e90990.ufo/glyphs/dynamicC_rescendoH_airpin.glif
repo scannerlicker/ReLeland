@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dynamicCrescendoHairpin" format="2">
+  <advance width="751"/>
+  <unicode hex="E53E"/>
+  <outline>
+    <contour>
+      <point x="739" y="98" type="line"/>
+      <point x="85" y="228" type="line"/>
+      <point x="739" y="358" type="line"/>
+      <point x="733" y="387" type="line"/>
+      <point x="5" y="243" type="line"/>
+      <point x="5" y="213" type="line"/>
+      <point x="733" y="69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

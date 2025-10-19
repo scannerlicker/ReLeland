@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stringsHalfHarmonic" format="2">
+  <advance width="181"/>
+  <unicode hex="E615"/>
+  <outline>
+    <contour>
+      <point x="91" y="153" type="line"/>
+      <point x="126" y="153"/>
+      <point x="153" y="126"/>
+      <point x="153" y="91" type="curve" smooth="yes"/>
+      <point x="153" y="56"/>
+      <point x="126" y="28"/>
+      <point x="91" y="28" type="curve"/>
+    </contour>
+    <contour>
+      <point x="91" y="181" type="curve" smooth="yes"/>
+      <point x="41" y="181"/>
+      <point x="0" y="141"/>
+      <point x="0" y="91" type="curve" smooth="yes"/>
+      <point x="0" y="41"/>
+      <point x="41" y="0"/>
+      <point x="91" y="0" type="curve" smooth="yes"/>
+      <point x="141" y="0"/>
+      <point x="181" y="41"/>
+      <point x="181" y="91" type="curve" smooth="yes"/>
+      <point x="181" y="141"/>
+      <point x="141" y="181"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

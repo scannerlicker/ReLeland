@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="csymMajorSeventh" format="2">
+  <advance width="501"/>
+  <unicode hex="E873"/>
+  <outline>
+    <contour>
+      <point x="250" y="490" type="line"/>
+      <point x="0" y="10" type="line"/>
+      <point x="500" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="367" type="line"/>
+      <point x="406" y="67" type="line"/>
+      <point x="94" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

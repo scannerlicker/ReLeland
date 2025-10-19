@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="articMarcatoBelow" format="2">
+  <advance width="296"/>
+  <unicode hex="E4AD"/>
+  <outline>
+    <contour>
+      <point x="271" y="-7" type="line"/>
+      <point x="176" y="-166" type="line"/>
+      <point x="89" y="-7" type="line" smooth="yes"/>
+      <point x="87" y="-3"/>
+      <point x="81" y="0"/>
+      <point x="76" y="0" type="curve" smooth="yes"/>
+      <point x="13" y="0" type="line" smooth="yes"/>
+      <point x="5" y="0"/>
+      <point x="0" y="-6"/>
+      <point x="0" y="-14" type="curve" smooth="yes"/>
+      <point x="0" y="-16"/>
+      <point x="0" y="-19"/>
+      <point x="1" y="-21" type="curve" smooth="yes"/>
+      <point x="136" y="-247" type="line" smooth="yes"/>
+      <point x="139" y="-251"/>
+      <point x="142" y="-252"/>
+      <point x="148" y="-253" type="curve"/>
+      <point x="152" y="-253"/>
+      <point x="158" y="-251"/>
+      <point x="160" y="-247" type="curve" smooth="yes"/>
+      <point x="295" y="-21" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

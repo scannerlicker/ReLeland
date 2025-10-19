@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tremolo5" format="2">
+  <advance width="145"/>
+  <unicode hex="E224"/>
+  <outline>
+    <contour>
+      <point x="-145" y="221" type="line"/>
+      <point x="-145" y="95" type="line"/>
+      <point x="145" y="158" type="line"/>
+      <point x="145" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="-345" type="line"/>
+      <point x="-145" y="-471" type="line"/>
+      <point x="145" y="-408" type="line"/>
+      <point x="145" y="-282" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="-156" type="line"/>
+      <point x="-145" y="-282" type="line"/>
+      <point x="145" y="-219" type="line"/>
+      <point x="145" y="-94" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="32" type="line"/>
+      <point x="-145" y="-94" type="line"/>
+      <point x="145" y="-31" type="line"/>
+      <point x="145" y="95" type="line"/>
+    </contour>
+    <contour>
+      <point x="-145" y="410" type="line"/>
+      <point x="-145" y="284" type="line"/>
+      <point x="145" y="347" type="line"/>
+      <point x="145" y="473" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteheadTriangleRoundDownWhite" format="2">
+  <advance width="310"/>
+  <unicode hex="E0CC"/>
+  <outline>
+    <contour>
+      <point x="157" y="-136" type="line"/>
+      <point x="310" y="44" type="line"/>
+      <point x="310" y="44"/>
+      <point x="267" y="122"/>
+      <point x="157" y="122" type="curve" smooth="yes"/>
+      <point x="47" y="122"/>
+      <point x="0" y="44"/>
+      <point x="0" y="44" type="curve"/>
+    </contour>
+    <contour>
+      <point x="157" y="74" type="curve" smooth="yes"/>
+      <point x="197" y="74"/>
+      <point x="238" y="59"/>
+      <point x="264" y="27" type="curve"/>
+      <point x="157" y="-99" type="line"/>
+      <point x="47" y="27" type="line"/>
+      <point x="60" y="42"/>
+      <point x="95" y="74"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="buzzRoll" format="2">
+  <advance width="150"/>
+  <unicode hex="E22A"/>
+  <outline>
+    <contour>
+      <point x="-76" y="-85" type="line"/>
+      <point x="150" y="75" type="line"/>
+      <point x="150" y="140" type="line"/>
+      <point x="-150" y="140" type="line"/>
+      <point x="-150" y="85" type="line"/>
+      <point x="76" y="85" type="line"/>
+      <point x="-150" y="-72" type="line"/>
+      <point x="-150" y="-140" type="line"/>
+      <point x="150" y="-140" type="line"/>
+      <point x="150" y="-85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

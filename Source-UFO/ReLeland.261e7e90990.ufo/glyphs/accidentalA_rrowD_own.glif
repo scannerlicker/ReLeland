@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="accidentalArrowDown" format="2">
+  <advance width="194"/>
+  <unicode hex="E27B"/>
+  <outline>
+    <contour>
+      <point x="86" y="-68" type="line" smooth="yes"/>
+      <point x="88" y="-71"/>
+      <point x="93" y="-74"/>
+      <point x="97" y="-74" type="curve" smooth="yes"/>
+      <point x="101" y="-74"/>
+      <point x="107" y="-71"/>
+      <point x="109" y="-68" type="curve" smooth="yes"/>
+      <point x="192" y="49" type="line" smooth="yes"/>
+      <point x="193" y="51"/>
+      <point x="194" y="55"/>
+      <point x="194" y="57" type="curve" smooth="yes"/>
+      <point x="194" y="65"/>
+      <point x="189" y="71"/>
+      <point x="181" y="71" type="curve" smooth="yes"/>
+      <point x="178" y="71"/>
+      <point x="174" y="71"/>
+      <point x="172" y="69" type="curve" smooth="yes"/>
+      <point x="111" y="23" type="line"/>
+      <point x="111" y="388" type="line"/>
+      <point x="83" y="388" type="line"/>
+      <point x="83" y="22" type="line"/>
+      <point x="22" y="68" type="line" smooth="yes"/>
+      <point x="20" y="70"/>
+      <point x="17" y="71"/>
+      <point x="14" y="71" type="curve" smooth="yes"/>
+      <point x="6" y="71"/>
+      <point x="0" y="65"/>
+      <point x="0" y="57" type="curve" smooth="yes"/>
+      <point x="0" y="55"/>
+      <point x="2" y="51"/>
+      <point x="3" y="49" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

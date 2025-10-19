@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dynamicMessaDiVoce" format="2">
+  <advance width="1555"/>
+  <unicode hex="E540"/>
+  <outline>
+    <contour>
+      <point x="739" y="98" type="line"/>
+      <point x="85" y="228" type="line"/>
+      <point x="739" y="358" type="line"/>
+      <point x="733" y="387" type="line"/>
+      <point x="5" y="243" type="line"/>
+      <point x="5" y="213" type="line"/>
+      <point x="733" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="817" y="357" type="line"/>
+      <point x="1471" y="227" type="line"/>
+      <point x="817" y="98" type="line"/>
+      <point x="823" y="68" type="line"/>
+      <point x="1551" y="213" type="line"/>
+      <point x="1551" y="242" type="line"/>
+      <point x="823" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

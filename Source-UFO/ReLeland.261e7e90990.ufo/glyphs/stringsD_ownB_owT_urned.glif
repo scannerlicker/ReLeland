@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stringsDownBowTurned" format="2">
+  <advance width="315"/>
+  <unicode hex="E611"/>
+  <outline>
+    <contour>
+      <point x="0" y="14" type="line"/>
+      <point x="0" y="14"/>
+      <point x="6" y="0"/>
+      <point x="14" y="0" type="curve" smooth="yes"/>
+      <point x="301" y="0" type="line" smooth="yes"/>
+      <point x="309" y="0"/>
+      <point x="315" y="6"/>
+      <point x="315" y="14" type="curve" smooth="yes"/>
+      <point x="315" y="293" type="line"/>
+      <point x="287" y="293" type="line"/>
+      <point x="287" y="91" type="line"/>
+      <point x="28" y="91" type="line"/>
+      <point x="28" y="293" type="line"/>
+      <point x="0" y="293" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

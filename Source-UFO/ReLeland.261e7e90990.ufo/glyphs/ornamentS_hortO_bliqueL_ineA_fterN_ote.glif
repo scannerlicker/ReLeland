@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ornamentShortObliqueLineAfterNote" format="2">
+  <advance width="189"/>
+  <unicode hex="E57A"/>
+  <outline>
+    <contour>
+      <point x="151" y="7" type="line" smooth="yes"/>
+      <point x="153" y="3"/>
+      <point x="158" y="0"/>
+      <point x="162" y="0" type="curve" smooth="yes"/>
+      <point x="164" y="0" type="line" smooth="yes"/>
+      <point x="166" y="0"/>
+      <point x="168" y="1"/>
+      <point x="170" y="2" type="curve" smooth="yes"/>
+      <point x="178" y="6" type="line" smooth="yes"/>
+      <point x="183" y="9"/>
+      <point x="185" y="14"/>
+      <point x="185" y="19" type="curve" smooth="yes"/>
+      <point x="185" y="21"/>
+      <point x="184" y="23"/>
+      <point x="183" y="26" type="curve"/>
+      <point x="34" y="283" type="line" smooth="yes"/>
+      <point x="31" y="288"/>
+      <point x="27" y="290"/>
+      <point x="22" y="290" type="curve" smooth="yes"/>
+      <point x="19" y="290"/>
+      <point x="17" y="289"/>
+      <point x="15" y="288" type="curve" smooth="yes"/>
+      <point x="7" y="284" type="line"/>
+      <point x="3" y="281"/>
+      <point x="0" y="277"/>
+      <point x="0" y="272" type="curve" smooth="yes"/>
+      <point x="0" y="269"/>
+      <point x="1" y="267"/>
+      <point x="2" y="264" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
